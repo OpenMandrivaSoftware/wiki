@@ -2,7 +2,7 @@
 title: Come cambiare il canale degli aggiornamenti
 description: 
 published: true
-date: 2020-05-02T17:24:57.250Z
+date: 2020-04-28T09:09:45.491Z
 tags: documentation, howto, user-guide, advanced
 ---
 
@@ -45,4 +45,3 @@ $ sudo dnf --allowerasing distro-sync
 ```
 
 \-
-
