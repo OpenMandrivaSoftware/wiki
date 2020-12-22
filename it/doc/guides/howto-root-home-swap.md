@@ -2,7 +2,7 @@
 title: Come creare le partizioni root home e swap durante l'installazione di OMLx
 description: 
 published: true
-date: 2020-05-12T11:05:15.166Z
+date: 2020-05-12T11:03:55.770Z
 tags: documentation, howto, user-guide, advanced
 ---
 
@@ -14,6 +14,7 @@ Calamares include una opzione per il partizionamento avanzato, che supporta sia 
 
 > Nota: Quando leggi *Lx 4*, significa che include tutte le versioni 4.x come 4.0, 4.1, e 4.2. Questa guida è applicabile a tutte le versioni di OMLx incluse Cooker e Rolling come anche tutta la famiglia Lx 4.
 {.is-info}
+
 
 Puoi fare più o meno tutto ciò che ti serve per le partizioni scegliendo <kbd>Manual partitioning</kbd>
 
@@ -54,6 +55,7 @@ Quando sei soddisfatto fai click su <kbd>Next</kbd> e una volta installato il tu
 
 Nota che `/boot/efi` è in cima alla lista al primo posto. Questo è indispensabile.
 
+
 > Nota che la tua partizione di swap probabilmente non verrà mai utilizzata. Solo una piccola minoranza di utenti hanno veramente bisogno di una partizione di swap. Coloro a cui serve davvero ne sono già a conoscenza. Di solito la swap serve a computer molto vecchi che non hanno abbastanza RAM per far funzionare Lx 4.
 Quanta RAM occorre? Idealmente 4 GB. Noi abbiamo utenti che usano Lx 4 con 2 GB. Le note di rilascio per Lx 4.0 e 4.1 dicono 2 GB e l'installer Calamares richiede 2 GB.  Aggiornare la quantità di memoria in un computer, che sia un desktop, laptop o notebook è semplice ed economico al giorno d'oggi. Quindi se il tuo computer ha poca memoria RAM considera di aumentarla.
 La swap può essere ancora utilizzata in alcuni computer che fanno calcoli scientifici e matematici ad un livello molto intenso o che magari utilizzano pesanti applicazioni grafiche. Ma come già detto questo tipo di utenza sa di cosa ha bisogno.
@@ -62,5 +64,3 @@ La swap può essere ancora utilizzata in alcuni computer che fanno calcoli scien
 Questo è uno screenshot di come la finestra di dialogo <kbd>Create</kbd> dovrebbe apparire per la tua partizione `/boot/efi`  in un sistema UEFI/EFI:
 
 ![root-home-swap-05.png](/images/root-home-swap-05.png)
-
-\-
