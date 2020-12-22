@@ -2,9 +2,10 @@
 title: OpenMandriva Lx 4.2 Novità
 description: 
 published: true
-date: 2020-07-17T20:23:43.002Z
+date: 2020-12-18T11:48:51.212Z
 tags: 4.2
 editor: markdown
+dateCreated: 2020-02-27T16:27:56.804Z
 ---
 
 # OpenMandriva Lx 4.2 Novità
@@ -54,4 +55,3 @@ OpenMandriva Lx 4.2 è una nuova release da parte della Associatione OpenMandriv
 - Digikam 7.0
 - SMPlayer 20.6.0
 - VLC 3.0.11
-  
