@@ -1,5 +1,5 @@
 ---
-title: Schermata di Benvenuto OpenMandriva Welcome
+title: OpenMandriva Welcome
 description: Il potente strumento di avvio e configurazione per KDE Plasma
 published: true
 date: 2025-03-20T15:31:59.291Z
