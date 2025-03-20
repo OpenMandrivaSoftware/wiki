@@ -1,114 +1,88 @@
 ---
-title: OpenMandriva Welcome
-description: Il potente strumento di avvio e configurazione per KDE Plasma
+title: Schermata di Benvenuto OpenMandriva Welcome
+description: 
 published: true
-date: 2025-03-20T15:31:59.291Z
+date: 2022-03-07T23:10:48.440Z
 tags: documentation, user-guide
 editor: markdown
 dateCreated: 2020-03-04T19:37:44.925Z
 ---
 
-# OpenMandriva Welcome
+# OpenMandriva Welcome - Schermata di Benvenuto
 
-> Nota Bene: OM-Welcome **non è** la solita banale schermata di *"Benvenuti nella distribuzione"*.
-> OM-Welcome è un potente strumento di avvio e configurazione progettato specificamente per l'ambiente desktop OpenMandriva KDE Plasma.
-{.is-success}
+> Qualche pillola di storia:
+> A partire da OpenMandriva Lx 2014, al primo avvio del sistema veniamo accolti dalla schermata di benvenuto di OpenMandriva, un programma il cui obiettivo è quello di svelare la distribuzione, le sue caratteristiche e guidarci attraverso scelte specifiche per configurare il nostro sistema e installare alcuni programmi e utility.
 
-<br>
 
-*Qualche pillola di storia:
-A partire da OpenMandriva Lx 2014, al primo avvio del sistema veniamo accolti da OM Welcome, un'applicazione che ha lo scopo di illustrare la distribuzione, le sue caratteristiche e di guidarci nella configurazione del sistema e nell'installazione di diverse applicazioni e utilità.*
-<br>
+Ecco qui OM Welcome, l'applicazione creata per presentare la nostra distribuzione ai nuovi utenti.
+Ad ogni avvio, finchè non decidiamo di disabilitarla, OM Welcome ci darà il benvenuto.
 
-Ad ogni avvio, finché non decidiamo di disabilitarlo, verremo accolti da OM Welcome.
-<br>
+![om4.1-welcome-01.jpg](/images/om4.1-welcome-01.jpg)
 
-### Benvenuti
+La prima schermata ci introduce la distribuzione, la nostra Community e i valori su cui si basa.
 
-![omlx60.doc.omwelcome-01.jpg](/images/omlx60.doc.omwelcome-01.jpg)
+Tutte le schermate dell'applicazione sono comodamente raggiungibili dai link diretti che si trovano nella barra blu in alto.
 
-La prima schermata introduce la distribuzione, la nostra Comunità e i valori su cui si basa.
-Tutte le schermate sono comodamente accessibili tramite collegamenti diretti nella barra superiore.
-Qui, verso il fondo, l'utente può disabilitare l'avvio automatico di OM Welcome all'avvio del sistema.
+Qui, vicino al bottone "Prossimo", l'utente può disabilitare l'avvio automatico di OMA Welcome.
 
 Navigheremo tra le varie schermate del programma, ognuna dedicata a scopi diversi.
 
 Clicca su <kbd>Prossimo</kbd> per iniziare
-<br>
 
-### Caratteristiche
+![om4.1-welcome-02.jpg](/images/om4.1-welcome-02.jpg)
 
-![omlx60.doc.omwelcome-02.jpg](/images/omlx60.doc.omwelcome-02.jpg)
+La seconda schermata mostra alcune caratteristiche tecniche di OpenMandriva Lx
 
-La seconda schermata mostra alcune caratteristiche tecniche dettagliate di OpenMandriva Lx e introduce le applicazioni specifiche OpenMandriva.
+Clicca su <kbd>Prossimo</kbd>
 
- <kbd>Prossimo</kbd>
- <br>
+![om4.1-welcome-03.jpg](/images/om4.1-welcome-03.jpg)
 
-Configura
+La schermata OM Features ci introdurrà alle applicazioni specifiche di OpenMandriva
 
-![omlx60.doc.omwelcome-03.jpg](/images/omlx60.doc.omwelcome-03.jpg)
+Clicca su <kbd>Prossimo</kbd>
 
-Qui potremo configurare e personalizzare il nostro sistema, molto utile specialmente ai nuovi utenti di Open Mandriva che avranno a portata di mano tutto ciò di cui hanno bisogno per:
+![om4.1-welcome-04.jpg](/images/om4.1-welcome-04.jpg)
 
-- Sistema
-- Hardware
-- Software
-- Desktop
-- Sicurezza
+Questa è la prima schermata dove saremo in grado di configurare e personalizzare il nostro sistema, molto utile specialmente ai nuovi utenti di Open Mandriva che avranno a portata di mano tutto ciò di cui hanno bisogno:
 
-![omlx60.doc.omwelcome-04.jpg](/images/omlx60.doc.omwelcome-04.jpg)
+- Configurazione Network
+- Display e Monitor 
+- Configurazione Stampante 
+- Temi del Desktop
+- Icone del Desktop
+- Un accesso diretto al nostro principale strumento di configurazione OpenMandriva Control Center 
 
-![omlx60.doc.omwelcome-05.jpg](/images/omlx60.doc.omwelcome-05.jpg)
+ Clicca su <kbd>Prossimo</kbd>
 
-![omlx60.doc.omwelcome-06.jpg](/images/omlx60.doc.omwelcome-06.jpg)
+![om4.1-welcome-05.jpg](/images/om4.1-welcome-05.jpg)
 
-![omlx60.doc.omwelcome-07.jpg](/images/omlx60.doc.omwelcome-07.jpg)
-
- <kbd>Prossimo</kbd>
- <br>
-
- ### Applicazioni
-
-Da questa pagina potremo installare varie applicazioni per gruppi differenti
-
-![omlx60.doc.omwelcome-08.jpg](/images/omlx60.doc.omwelcome-08.jpg)
-
-![omlx60.doc.omwelcome-09.jpg](/images/omlx60.doc.omwelcome-09.jpg)
-
-![omlx60.doc.omwelcome-10.jpg](/images/omlx60.doc.omwelcome-10.jpg)
-
-![omlx60.doc.omwelcome-11.jpg](/images/omlx60.doc.omwelcome-11.jpg)
-
-![omlx60.doc.omwelcome-12.jpg](/images/omlx60.doc.omwelcome-12.jpg)
-
-![omlx60.doc.omwelcome-13.jpg](/images/omlx60.doc.omwelcome-13.jpg)
-
-![omlx60.doc.omwelcome-14.jpg](/images/omlx60.doc.omwelcome-14.jpg)
-
-![omlx60.doc.omwelcome-15.jpg](/images/omlx60.doc.omwelcome-15.jpg)
-
-![omlx60.doc.omwelcome-16.jpg](/images/omlx60.doc.omwelcome-16.jpg)
-
-![omlx60.doc.omwelcome-17.jpg](/images/omlx60.doc.omwelcome-17.jpg)
-
- <kbd>Prossimo</kbd>
- <br>
-
-### Repositori
-
-Informazioni generali sui diversi repositori di OpenMandriva
-
-![omlx60.doc.omwelcome-18.jpg](/images/omlx60.doc.omwelcome-18.jpg)
-
- <kbd>Prossimo</kbd>
- <br>
-
-### Partecipa
-
-Infine troviamo la pagina dei collegamenti ai diversi settori di OpenMandriva, e forse trovare il nostro modo per contribuire al progetto.
-
-![omlx60.doc.omwelcome-19.jpg](/images/omlx60.doc.omwelcome-19.jpg)
+Da questa pagina potrai installare varie applicazioni per gruppi differenti
 
 
+> **Potrebbe essere necessario [abilitare specifici repository](/doc/repositories_tldr)**
+{.is-warning}
+
+![om4.1-welcome-06.jpg](/images/om4.1-welcome-06.jpg)
+
+![om4.1-welcome-07.jpg](/images/om4.1-welcome-07.jpg)
+
+![om4.1-welcome-08.jpg](/images/om4.1-welcome-08.jpg)
+
+![om4.1-welcome-09.jpg](/images/om4.1-welcome-09.jpg)
+
+![om4.1-welcome-10.jpg](/images/om4.1-welcome-10.jpg)
+
+![om4.1-welcome-11.jpg](/images/om4.1-welcome-11.jpg)
+
+Premendo il tasto <kbd>Prossimo</kbd> un'alta volta ci ritroveremo alla pagina dei link di OpenMandriva, da cui possiamo raggiungere tutti i servizi del mondo di OpenMandriva, e dove forse troverai anche il tuo modo per contribuire al progetto.
+
+![om4.1-welcome-12.jpg](/images/om4.1-welcome-12.jpg)
+
+Clicca su <kbd>Prossimo</kbd>
+
+Infine le informazioni riguardanti questa applicazione esclusiva di OpenMandriva
+
+![om4.1-welcome-13.jpg](/images/om4.1-welcome-13.jpg)
+
+\-
 
