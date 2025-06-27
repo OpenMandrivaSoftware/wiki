@@ -219,7 +219,7 @@ Comme solution de contournement, supprimez `dnf-utils`.
 Pour les périphériques Bluetooth, l'utilisateur peut avoir besoin d'activer systemd bluetooth.service. Ouvrir Konsole
 et exécutez :
 
-`$ sudo systemctl start bluetooth ; sudo systemctl enable bluetooth`
+`$ sudo systemctl enable --now bluetooth`
 <br>
 
 ### SystemSettings
