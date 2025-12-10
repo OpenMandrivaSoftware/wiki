@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Notes
 description: ROME Notes
 published: true
-date: 2025-04-19T20:43:52.164Z
+date: 2025-12-10T15:19:02.663Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:04:40.037Z
@@ -189,16 +189,17 @@ More about package management with dnf [here](https://dnf.readthedocs.io/en/late
 **Discover** has been modified to upgrade using dnf directly, bypassing its usual PackageKit backend. This is a new feature and still considered experimental.
 {.is-danger}
 
-The recommended, long proven way to update, is using the command line. This is very easy, just copy and paste this command string:
+The recommended, long proven way to update, is using the command line. This is very easy, just copy and paste this command string (`dsync` is an alias for `distro-sync`):
 
-`sudo dnf clean all ; sudo dnf --allowerasing distro-sync`
+`sudo dnf clean all ; sudo dnf dsync --allowerasing`
 
-Then press Enter key and when prompted enter your root (superuser) password.
-We recommend it because we see a lot of problem reports that begin with "*I updated my system with Discover updater*" or "I *updated my system with dnfdragora*". 
+Users may also upgrade their system using 'System update' which is in the menu panel of new installs or may be found in 'Application Menu>System>System Update'.
 
-Another way to keep your system up to date is letting the OS do it for you: Use `om-update-config` to set up automated nightly updates. If you would like to use automated nightly updates without a graphical tool (e.g. on a headless server), make sure the `system-update` package is installed and use `systemctl enable system-update.timer`
-Note that by default, the auto-update process automatically reboots your system if the update includes a new kernel. If you wish to use automatic updates and avoid automatic reboots, add a line saying `NO_REBOOT_ON_KERNEL_UPDATE=1` to `/etc/sysconfig/system-update` (create the file if necessary).
-<br>
+If user has a problem with the `dsync` upgrade they should use this command:
+
+`sudo dnf clean all ; sudo dnf dsync --allowerasing 2>&1 | tee dsync.log.txt`
+
+Which will create the log `dsync.log.txt` to be attached to users forum post or bug report. Note that if you use this command multiple times the file gets overwritten each time, so if you need multiple transaction logs you can rename the file each time like `dsync1.log.txt`, `dsync2.log.txt` and so on.
 
 
 ## Default sound server switched to Pipewire
