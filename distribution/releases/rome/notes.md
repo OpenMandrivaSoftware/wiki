@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Notes
 description: ROME Notes
 published: true
-date: 2025-12-10T15:19:02.663Z
+date: 2025-12-10T15:21:01.590Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:04:40.037Z
@@ -189,7 +189,7 @@ More about package management with dnf [here](https://dnf.readthedocs.io/en/late
 **Discover** has been modified to upgrade using dnf directly, bypassing its usual PackageKit backend. This is a new feature and still considered experimental.
 {.is-danger}
 
-The recommended, long proven way to update, is using the command line. This is very easy, just copy and paste this command string (`dsync` is an alias for `distro-sync`):
+The recommended, long proven way to update, is using the command line. This is very easy, just copy and paste this command string:
 
 `sudo dnf clean all ; sudo dnf dsync --allowerasing`
 
@@ -201,7 +201,7 @@ If user has a problem with the `dsync` upgrade they should use this command:
 
 Which will create the log `dsync.log.txt` to be attached to users forum post or bug report. Note that if you use this command multiple times the file gets overwritten each time, so if you need multiple transaction logs you can rename the file each time like `dsync1.log.txt`, `dsync2.log.txt` and so on.
 
-
+Note: `dsync` is an alias for `distro-sync`.
 ## Default sound server switched to Pipewire
 [*Pipewire*](https://pipewire.org/) has become our default sound server in the current system release together with WirePlumber, thus replacing PulseAudio.
 However, PulseAudio is still in our repository and you can return to it at any time. To do that use this command string:
