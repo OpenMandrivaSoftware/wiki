@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 6.0 Release Notes
 description: 
 published: true
-date: 2025-06-18T20:52:09.904Z
+date: 2025-12-10T15:38:40.890Z
 tags: 6.0
 editor: markdown
 dateCreated: 2025-03-10T19:02:54.601Z
@@ -174,14 +174,21 @@ More about package management with dnf [here](https://dnf.readthedocs.io/en/late
 
 ## Recommended update procedure
 
-This is very easy, just copy and paste this command string:
+The recommended, long proven way to update, is using the command line. This is very easy, just copy and paste this command string:
 
-`sudo dnf clean all ; dnf clean all ; sudo dnf distro-sync --allowerasing --refresh`
+`sudo dnf clean all ; sudo dnf dsync --allowerasing`
 
-Then press Enter key and when prompted enter your root (superuser) password.
-We recommend it because we see a lot of problem reports that begin with "*I updated my system with Discover updater*" or "I *updated my system with dnfdragora*". 
+Users may also upgrade their system using 'System update' which is in the menu panel of new installs or may be found in 'Application Menu>System>System Update'.
+
+If user has a problem with the `dsync` upgrade they should use this command:
+
+`sudo dnf clean all ; sudo dnf dsync --allowerasing 2>&1 | tee dsync.log.txt`
+
+Which will create the log `dsync.log.txt` to be attached to users forum post or bug report. Note that if you use this command multiple times the file gets overwritten each time, so if you need multiple transaction logs you can rename the file each time like `dsync1.log.txt`, `dsync2.log.txt` and so on.
+
+*Note:* `dsync` is an alias for `distro-sync`.
+
 <br>
-
 
 ## Default sound server switched to Pipewire
 [*Pipewire*](https://pipewire.org/) has become our default sound server in the current system release together with WirePlumber, thus replacing PulseAudio.
