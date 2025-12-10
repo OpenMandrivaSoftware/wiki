@@ -2,7 +2,7 @@
 title: OpenMandriva Lx 6.0 Release Notes
 description: 
 published: true
-date: 2025-12-10T15:38:40.890Z
+date: 2025-12-10T15:40:05.918Z
 tags: 6.0
 editor: markdown
 dateCreated: 2025-03-10T19:02:54.601Z
@@ -186,7 +186,7 @@ If user has a problem with the `dsync` upgrade they should use this command:
 
 Which will create the log `dsync.log.txt` to be attached to users forum post or bug report. Note that if you use this command multiple times the file gets overwritten each time, so if you need multiple transaction logs you can rename the file each time like `dsync1.log.txt`, `dsync2.log.txt` and so on.
 
-*Note:* `dsync` is an alias for `distro-sync`.
+*Note:* `dsync` is an alias for `distro-sync`. Fedora users may be used to using `dnf up`, will OpenMandriva is different.
 
 <br>
 
