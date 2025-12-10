@@ -2,7 +2,7 @@
 title: OpenMandriva ROME Notes
 description: ROME Notes
 published: true
-date: 2025-12-10T15:31:50.757Z
+date: 2025-12-10T15:45:34.206Z
 tags: rome
 editor: markdown
 dateCreated: 2023-02-28T15:04:40.037Z
@@ -201,7 +201,7 @@ If user has a problem with the `dsync` upgrade they should use this command:
 
 Which will create the log `dsync.log.txt` to be attached to users forum post or bug report. Note that if you use this command multiple times the file gets overwritten each time, so if you need multiple transaction logs you can rename the file each time like `dsync1.log.txt`, `dsync2.log.txt` and so on.
 
-*Note:* `dsync` is an alias for `distro-sync`.
+*Note:* `dsync` is an alias for `distro-sync`. Fedora users may be used to using `dnf up`, well OpenMandriva is different for Cooker and ROME installations it is strongly recommenced to use `dnf dsync`. 
 
 ***Note-2**:* *It would wise for ROME users to pay attention to this forum thread for major upgrades that may require additional instructions than what is listed above. We do try to keep users informed whether the basic instructions will work or some additional steps my be needed.*
 ### [ROME major upgrade expected](https://forum.openmandriva.org/t/rome-major-upgrade-expected/4707)
