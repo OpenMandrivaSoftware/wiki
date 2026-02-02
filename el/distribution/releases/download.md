@@ -1,6 +1,6 @@
 ---
-title: Download OpenMandriva ROME or Rock
-description: Get OpenMandriva Lx
+title: Κατέβασμα OpenMandriva ROME ή Rock
+description: Κατεβάστε OpenMandriva Lx
 published: true
 date: 2025-04-30T09:42:24.135Z
 tags: iso, torrent, archive.org, download
