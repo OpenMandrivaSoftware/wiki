@@ -76,7 +76,6 @@ dateCreated: 2025-03-10T20:01:31.755Z
 `sudo dnf in task-plasma6-wayland --refresh`
 
 Η εντολή δίνει στους χρήστες την επιλογή να συγκρίνουν το Wayland με το X11.
-<br>
 
 
 ### NVME SSDs
