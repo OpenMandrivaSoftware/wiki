@@ -1,6 +1,6 @@
 ---
-title: OpenMandriva Lx 6.0 Errata
-description: OpenMandriva Lx 6.0 Errata
+title: Λίστα σφαλμάτων και διορθώσεων OpenMandriva Lx 6.0
+description: Λίστα σφαλμάτων και διορθώσεων OpenMandriva Lx 6.0
 published: true
 date: 2025-08-06T05:38:25.995Z
 tags: 6.0
