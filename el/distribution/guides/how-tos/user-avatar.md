@@ -1,5 +1,5 @@
 ---
-title: How to set the user avatar in OMLx
+title: Πώς να ρυθμίσετε το avatar χρήστη στο OMLx
 description: 
 published: true
 date: 2021-09-26T21:36:21.553Z
