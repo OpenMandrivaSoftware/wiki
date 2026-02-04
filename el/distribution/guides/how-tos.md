@@ -1,5 +1,5 @@
 ---
-title: How-tos
+title: Οδηγίες
 description: 
 published: true
 date: 2021-10-12T20:22:07.514Z
