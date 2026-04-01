@@ -2,7 +2,7 @@
 title: Post Install how-to
 description: 
 published: true
-date: 2024-08-20T10:38:40.190Z
+date: 2026-04-01T07:51:13.664Z
 tags: user-guide, troubleshooting, guide
 editor: markdown
 dateCreated: 2022-03-24T09:32:43.677Z
@@ -23,13 +23,13 @@ dateCreated: 2022-03-24T09:32:43.677Z
 ## Hardware
 * [How to configure printer in OMLx](/en/distribution/guides/how-tos/printer)
 
-## User Interface
+<!-- ## User Interface
 ### Desktop presets
 * [How to feel like in Ubuntu](/en/distribution/guides/how-tos/feelinglikeubuntu)
 * [How to feel like in Windows 10](/en/distribution/guides/how-tos/feelinglikewin10)
 * [How to feel like in Windows 7](/en/distribution/guides/how-tos/feelinglikewin7)
 * [How te feel like in MacOS X Mojave](/en/distribution/guides/how-tos/feelinglikemacos)
-
+ -->
 # Advanced
 ## Maintainance and repair
 * [How to connect to console in recovery mode](/en/distribution/guides/how-tos/connect-console-recovery-mode)
