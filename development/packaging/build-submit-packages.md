@@ -1,8 +1,8 @@
 ---
-title: How to build and submit packages for OpenMandrivaUntitled Page
+title: How to build and submit packages for OpenMandriva
 description: 
 published: true
-date: 2026-04-01T08:19:59.366Z
+date: 2026-04-01T08:20:19.116Z
 tags: cooker, development, guide, packaging
 editor: markdown
 dateCreated: 2026-04-01T08:18:24.323Z
