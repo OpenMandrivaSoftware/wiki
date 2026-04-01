@@ -2,7 +2,7 @@
 title: Using dnf in OpenMandriva Lx
 description: 
 published: true
-date: 2025-02-15T11:00:42.718Z
+date: 2026-04-01T08:47:55.624Z
 tags: documentation, dnf, user-guide
 editor: markdown
 dateCreated: 2020-03-06T18:48:34.373Z
@@ -10,7 +10,7 @@ dateCreated: 2020-03-06T18:48:34.373Z
 
 # Using dnf in OpenMandriva Lx
 
-> For full documentation and more commands see [DNF Command Reference](https://dnf.readthedocs.io/en/latest/command_ref.html)
+> For full documentation and more commands see **DNF Command Reference** [[dnf5]](https://dnf5.readthedocs.io/en/latest/index.html) [[dnf4]](https://dnf.readthedocs.io/en/latest/command_ref.html)
 {.is-success}
 
 
@@ -108,6 +108,6 @@ and
 The help menu takes about a minute to a minute and a half to read. The man page takes about 3-5 minutes.
 Both are meant to be available for users to refer to as they use their system and need to find quickly how to do something.
 
-There are also wiki pages and docs about dnf: [Using the DNF software package manager](https://docs.fedoraproject.org/en-US/quick-docs/dnf/), [Fedora wiki page](https://fedoraproject.org/wiki/DNF?rd=Dnf), and [DNF Command Reference](https://dnf.readthedocs.io/en/latest/command_ref.html).
+There are also wiki pages and docs about dnf: [Using the DNF software package manager](https://docs.fedoraproject.org/en-US/quick-docs/dnf/), [Fedora wiki page](https://fedoraproject.org/wiki/DNF?rd=Dnf), and [DNF Command Reference dnf5](https://dnf5.readthedocs.io/en/latest/index.html) - [DNF Command Reference dnf4](https://dnf.readthedocs.io/en/latest/command_ref.html)
 
 
