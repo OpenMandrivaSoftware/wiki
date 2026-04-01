@@ -2,7 +2,7 @@
 title: How-tos
 description: 
 published: true
-date: 2021-10-12T20:22:07.514Z
+date: 2026-04-01T16:27:09.816Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-27T13:32:39.647Z
@@ -25,10 +25,10 @@ dateCreated: 2021-09-27T13:32:39.647Z
 
 ## User Interface
 ### Desktop presets
-* [How to feel like in Ubuntu](/en/distribution/guides/how-tos/feelinglikeubuntu)
-* [How to feel like in Windows 10](/en/distribution/guides/how-tos/feelinglikewin10)
-* [How to feel like in Windows 7](/en/distribution/guides/how-tos/feelinglikewin7)
-* [How te feel like in MacOS X Mojave](/en/distribution/guides/how-tos/feelinglikemacos)
+* [How to feel like in Ubuntu](/en/distribution/guides/how-tos/feelinglikeubuntu) *(OMLx 5.x)*
+* [How to feel like in Windows 10](/en/distribution/guides/how-tos/feelinglikewin10) *(OMLx 5.x)*
+* [How to feel like in Windows 7](/en/distribution/guides/how-tos/feelinglikewin7) *(OMLx 5.x)*
+* [How te feel like in MacOS X Mojave](/en/distribution/guides/how-tos/feelinglikemacos) *(OMLx 5.x)*
 
 # Advanced
 ## Maintainance and repair
