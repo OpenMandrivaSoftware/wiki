@@ -2,7 +2,7 @@
 title: How to build and submit packages for OpenMandriva
 description: 
 published: true
-date: 2026-04-01T08:20:19.116Z
+date: 2026-04-01T09:15:33.821Z
 tags: cooker, development, guide, packaging
 editor: markdown
 dateCreated: 2026-04-01T08:18:24.323Z
@@ -66,6 +66,7 @@ You can experiment locally with building packages as much as you want. Submittin
 2. Make your package work locally. This process results in having a local RPM you can install, and the downloaded source code for your package which you'll use later. 
 
 3. Once you have this, you must have an account on https://abf.openmandriva.org. Register for an account. Since there have been spam issues, you'll never get the email to verify your account. You'll have to go onto the Matrix chat and into the Cooker channel to request verification of your account. 
+\- [How to register to ABF](https://forum.openmandriva.org/t/4439)
 
 4. Upload the source to https://file-store.openmandriva.org. You got access to this when your ABF account was verified. When it uploads, it displays a hash for the file. 
 
