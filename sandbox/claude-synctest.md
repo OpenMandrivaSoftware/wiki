@@ -1,11 +1,11 @@
 ---
 title: Claude Sync Test
-description: Page temporaire de vérification de la synchro GitHub->Wiki.js (à supprimer)
+description: Page temporaire de vérification de la synchro (à supprimer)
 published: true
-date: 2026-07-03T19:52:36.000Z
-tags: []
+date: 2026-07-03T19:57:44.000Z
+tags: test
 editor: markdown
-dateCreated: 2026-07-03T19:52:36.000Z
+dateCreated: 2026-07-03T19:57:44.000Z
 ---
 
-Test de synchronisation bidirectionnelle — 2026-07-03T19:52:36.000Z. Cette page sera supprimée.
+Test de synchronisation GitHub -> Wiki.js — 2026-07-03T19:57:44.000Z. Page temporaire, sera supprimée.
