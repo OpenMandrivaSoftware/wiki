@@ -11,6 +11,9 @@ dateCreated: 2020-03-14T19:10:14.516Z
 # Mirroring
 ## List of mirrors
 
+> 📊 **Live reliability ranking** (auto-generated): see **[Mirror status](/en/team/infra/mirror-status)** — per-mirror availability, sync freshness and popularity, refreshed daily from Mirrorbits.
+{.is-info}
+
 ### Mirmon (Mirrors manager)
 ![Website](https://img.shields.io/website?label=MirMon%20status&url=https%3A%2F%2Fmirmon.openmandriva.org)
 From here you can see if a mirror is regularly up to date
@@ -30,6 +33,9 @@ Mirrorbits can redirect automatically to the closest mirror from your location, 
 
 our T1 mirrors are the mirrors directly updated from our build system (ABF).
 They serve as origin for all other mirrors, and as fallback mirrors if Mirrorbits or ABF is down.
+
+> **End users don't need to pick a mirror.** Point your tools at **`mirror.openmandriva.org`** (Mirrorbits): it redirects to the nearest healthy mirror and automatically falls back to ABF when a file is missing. Current per-mirror reliability is tracked automatically on the [Mirror status](/en/team/infra/mirror-status) page — that data-driven ranking, not this static list, reflects the live state.
+{.is-info}
 
 ### T1 Mirrors list
 
