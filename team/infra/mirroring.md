@@ -29,37 +29,16 @@ Mirrorbits can redirect automatically to the closest mirror from your location, 
 - Immediate redirection: http://mirror.openmandriva.org/release_current/README.txt 
 - Visual representation http://mirror.openmandriva.org/release_current/README.txt?mirrorlist
 
-## T1 mirrors
+## Mirror topology
 
-our T1 mirrors are the mirrors directly updated from our build system (ABF).
-They serve as origin for all other mirrors, and as fallback mirrors if Mirrorbits or ABF is down.
+OpenMandriva uses a flat topology: **every mirror syncs directly from the origin (ABF)**. There are no intermediate tiers, so a lagging mirror never propagates staleness to others, and every mirror can be as fresh as the source.
 
-> **End users don't need to pick a mirror.** Point your tools at **`mirror.openmandriva.org`** (Mirrorbits): it redirects to the nearest healthy mirror and falls back to ABF if a file is missing. Live per-mirror reliability lives on the [Mirror status](https://mirror.openmandriva.org/status) page, which supersedes the static list below.
+> **End users don't need to pick a mirror.** Point your tools at **`mirror.openmandriva.org`** (Mirrorbits): it redirects to the nearest healthy mirror and falls back to ABF if a file is missing. Live per-mirror reliability is on the [Mirror status](https://mirror.openmandriva.org/status) page.
 {.is-info}
 
-### T1 Mirrors list
-
-We have three T1 mirrors
-- **Yandex, Moscow, Russia**
--- URL http://mirror.yandex.ru/openmandriva/
--- `rsync://mirror.yandex.org/openmandriva/`
--- ftp://mirror.yandex.ru/openmandriva/
--- coord: 55.7522, 37.6156
-- **The University of North Carolina, Chapel Hill, USA** 
--- URL: http://distro.ibiblio.org/openmandriva/
--- ftp://distro.ibiblio.org/openmandriva/
--- `rsync://distro.ibiblio.org/openmandriva/`
--- coord: 37.751, -97.822
-- **The Federal University of Paraná, Brazil**
--- URL: http://openmandriva.c3sl.ufpr.br
--- `rsync://openmandriva.c3sl.ufpr.br/openmandriva/`
--- coord: 22.8305, -43.2192
-
 ## Setting up a mirror
-If you want to support us by setting up a mirror for OpenMandriva Lx, please choose one of the three T1 servers as origin with, for instance, one of the following command samples:
-- `rsync -av rsync://openmandriva.c3sl.ufpr.br/openmandriva/ /local/path`
-- `rsync -av rsync://mirror.yandex.ru/openmandriva/ /local/path`
-- `rsync -av distro.ibiblio.org::openmandriva/ /local/path/`
+If you want to support us by setting up a mirror for OpenMandriva Lx, sync directly from our origin (ABF distribution) so your mirror stays as fresh as the source:
+- `rsync -av rsync://abf-downloads.openmandriva.org/openmandriva/ /local/path/`
 > Don't forget the ''TIME.txt'' file. It is needed by Mirmon and Mirrobits to work correctly.
 >
 > At least '''600GB''' of free disk space is needed
