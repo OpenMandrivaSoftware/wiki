@@ -16,7 +16,7 @@ Before making any change regarding release or update channels if you are even a 
 A release is a group of software packages put together to form an operating system.
 Each release is distinguished by its "version", like *Mandriva 2009*, *Windows XP*, *OpenMandriva Lx 2014*, *OpenMandriva Lx 4.2*, ect.
 Releases are also called *Update Channels*.
-Release, Rock, Rolling and Cooker are all different release versions/update channels of OpenMandriva Lx. The emphasis is on the word different.
+Release, ROCK, Rolling and Cooker are all different release versions/update channels of OpenMandriva Lx. The emphasis is on the word different.
 **They must not be combined**.
 
 ## Repositories
@@ -30,12 +30,12 @@ There are GUI tools for this also like dnfdragora, Discover, and previously RpmD
 ## Release Plan
 The "Release Plan", also known as "Update Channels", is a hierarchy of software packages grouped together (release versions) in order to accomplish certain goals.
 As an example Cooker release/update channel is designed specifically for developers to work on even it they break things.
-Another example is Rock release/update channel which is designed for ordinary computer users to use for daily functions and is designed to not break (literally designed to be "stable").
+Another example is the ROCK release/update channel, which is designed for ordinary computer users to use for daily functions, and is designed to not break (literally designed to be "stable").
 
-With the Release of OpenMandriva Lx 4.0 OpenMandriva the distribution has implemented a new release plan in order to better organize the workflow for package maintenance and streamline and speed up the release process. This is closely coordinated with our repository structure.
-On a given system use only one release. **Do not mix releases/update channels or package conflicts are likely if not guaranteed.**
+With the Release of OpenMandriva Lx 4.0, OpenMandriva Lx as a Linux distribution has implemented a new release plan in order to better organize the workflow for package maintenance, and streamline and speed up the release process. This is closely coordinated with our repository structure.
+On any given system, use only one release. **Do not mix releases/update channels or package conflicts are likely if not guaranteed.**
 
-Releases are also known as "Update Channels". Each version above has it's own repositories. The repository or .repo files are found in the directory `/etc/yum.repos.d`. By name the repository names are respectively openmandriva-cooker, openmandriva-rolling, openmandriva-rock, and openmandriva-release.
+Releases are also known as "Update Channels". Each version above has its own repositories. The repository or .repo files are found in the directory `/etc/yum.repos.d`. By name the repository names are respectively openmandriva-cooker, openmandriva-rolling, openmandriva-rock, and openmandriva-release.
 Repositories are further defined and named according to arch. Example below.
 
 - **Cooker (Unstable)**
@@ -53,13 +53,13 @@ Developers take packages to ROME when they believe they are ready for use.
 ROME is a rolling release and will have the most up to date packages practical.
 It is designed to be a working, usable system. ROME users need to be able to handle some problem solving on their own as with any "bleeding edge" release. Also ROME users should be familiar with and able to use the command line or terminal (Konsole) at times.
 
--   **Rock (Stable)**
+-   **ROCK (Stable)**
 
-Rock repositories consist of a symbolic link to the latest stable version of OpenMandriva. Currently Rock is linked to OM Lx 4.2. However when OMLx 4.3 is released, Rock will automatically be switched to OM Lx 4.3.
+ROCK repositories consist of a symbolic link to the latest stable version of OpenMandriva. Currently ROCK is linked to OMLx 6.0. However when the next official stable release is pushed out, ROCK will automatically be switched to next version.
 
 -   **Release (Stable)**
 
-Release repositories are the latest stable versions of OpenMandriva Lx currently OM Lx 4.1 and 4.2. Release repositories stay with the same release. If you install OM Lx 4.2 and used Release repository instead of Rock you will stay with 4.2 repository.
+Release repositories consist of the latest stable version of OpenMandriva Lx (currently OMLx 6.0 Vandium). Release repositories stay with the same release. If you install OMLx 6.0 and used Release repository instead of ROCK you will stay with the release repository.
 The Release/Stable version would be the most stable and suitable for users that like things to stay as they are and just work. Package upgrades will be limited mostly to bug fixes, and security updates.
 Keep in mind that any version will eventually reach EOL (End Of Life) and there will be no more updates of any kind.
 
@@ -68,7 +68,7 @@ And remember the following: On a given system use only one release.
 
 The packaging workflow now is:
 `Cooker/Unstable > ROME/Rolling > Release/Stable`
-*Remember Rock is a symlink to Latest Stable Release.*
+*Remember ROCK is a symlink to Latest Stable Release.*
 
 ## List of Repository files
 
@@ -98,7 +98,7 @@ Repository files listed alphabetically as they are on users system
 `openmandriva-release-x86_64.repo`
 `openmandriva-release-x86_64-source.repo`
 
-- **Rock (symlink to latest Stable)**
+- **ROCK (symlink to latest Stable)**
 
 `openmandriva-rock-i686.repo`
 `openmandriva-rock-i686-source.repo`
@@ -135,7 +135,7 @@ With in each repository file listed above we have these four basic "Media" sourc
 
 - **main**
 
-`/main` is the core packages maintained by the OpenMandriva Lx team. This includes anything included in the install images as well as many more applications considered important. /main/release repository should always be enabled. If your system is using Release or Rock repo file then /main/release/updates should also always be enabled.
+`/main` is the core packages maintained by the OpenMandriva Lx team. This includes anything included in the install images as well as many more applications considered important. /main/release repository should always be enabled. If your system is using Release or ROCK repo file then /main/release/updates should also always be enabled.
 
 - **extra**
 
@@ -156,7 +156,7 @@ The usage of these packages vary by country. OpenMandriva Lx is not responsible 
 You may enable any of the following with the Software Repository Selector (om-repo-picker) in the Application Launcher under System.
 There is a How-to [here](https://forum.openmandriva.org/t/2726).
 
-As a practical matter for any of the Release categories chosen one should enable the Main repository always. For Release (Stable) and Rock one would enable (using x86_64 system as example)
+As a practical matter for any of the Release categories chosen one should enable the Main repository always. For Release (Stable) and ROCK one would enable (using x86_64 system as example)
 
 `/x86_64/main/release/`
 `/x86_64/main/updates/`
@@ -176,7 +176,7 @@ Whether to use any or all of Extra, Restricted, or Non-Free is user decision but
 
 Rolling and Cooker differ in that there is no update category for these so one would simply remove the /updates entries from the above list.
 
-For a little more explanation for Release/Stable and Rock one would be enabling either 2, 4, 6, or a maximum of 8 media categories.
+For a little more explanation for Release/Stable and ROCK one would be enabling either 2, 4, 6, or a maximum of 8 media categories.
 For ROME or Cooker one would be enabling between 1 and a maximum of 4 media categories. This is in normal circumstances. (There are no updates repos for ROME or Cooker.)
 
 
