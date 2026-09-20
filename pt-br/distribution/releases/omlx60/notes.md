@@ -208,7 +208,7 @@ Isso é discutido na página de Errata do OpenMandriva 6.0.
 <br>
 
 ## O que fazer se eu tiver um problema
-Caso tenha problemas, informe-os no [fórum de suporte em inglês](https://forum.openmandriva.org/c/support/17) usando um título descritivo e informações suficientes para que alguém possa ajudar. Ou, para obter resultados mais rápidos, entre em contato pelo [OpenMandriva Chat](https://team/chat). Se o problema for técnico e grave, [registre um relatório de bug](https://github.com/OpenMandrivaAssociation/distribution/issues).
+Caso tenha problemas, informe-os no [fórum de suporte em inglês](https://forum.openmandriva.org/c/support/17) usando um título descritivo e informações suficientes para que alguém possa ajudar. Ou, para obter resultados mais rápidos, entre em contato pelo [OpenMandriva Chat](team/chat). Se o problema for técnico e grave, [registre um relatório de bug](https://github.com/OpenMandrivaAssociation/distribution/issues).
 <br>
 
 ## O que há de novo
