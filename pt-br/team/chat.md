@@ -32,4 +32,4 @@ Este canal é destinado a discussões de trabalho e técnicas com os desenvolved
 <br />
 
 #### Nota sobre o Libera Chat
-Devido a fatores que não estão sob o controle do OpenMandriva ([1](https://libera.chat/news/temporarily-disabling-the-matrix-bridge), [2](https://libera.chat/news/matrix-bridge-disabled-retrospectively)), a ponte do libera.chat não está funcionando no momento. Estamos procurando uma solução.
+Devido a fatores que não estão sob o controle do OpenMandriva ([1](https://libera.chat/news/temporarily-disabling-the-matrix-bridge), [2](https://libera.chat/news/matrix-bridge-disabled-retrospective)), a ponte do libera.chat não está funcionando no momento. Estamos procurando uma solução.
