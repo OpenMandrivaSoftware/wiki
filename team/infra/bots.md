@@ -16,9 +16,12 @@ Chwido is the name of one developer's dog, a little ratter. Being unofficial mas
 
 ## Chwido in discussion rooms
 
-Chwido is an IRC bot, but visible on both IRC channels and Matrix rooms. It is based on [Sopel](https://sopel.chat/docs/) and can use all its commands. It has also some additional commands.
+> This part of Chwido is no longer running. It was an IRC bot, visible in Matrix rooms through the Libera Chat bridge, and it stopped when that bridge was shut down in 2023. The page is kept for reference.
+{.is-warning}
 
-Here are the commands you can use:
+Chwido was an IRC bot based on [Sopel](https://sopel.chat/docs/), with all its commands and some additional ones.
+
+Here are the commands it used to answer:
 
 | Command(s) | Purpose | Example |
 |---------------------|---------------------------------------------|-------------------------|

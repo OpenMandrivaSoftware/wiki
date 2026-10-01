@@ -13,7 +13,7 @@ dateCreated: 2020-03-16T15:25:48.972Z
 - [OpenMandriva official website](https://www.openmandriva.org)
 - [OpenMandriva News](https://www.openmandriva.org/en/news/)
 - [OpenMandriva Old Blog (archive)](https://arc.openmandriva.org/blog/)
-- [Openmandriva on IRC/Matrix](/en/doc/chat-faq)
+- [OpenMandriva on Matrix](/en/doc/chat-faq)
 - [Forum](https://forum.openmandriva.org/)
 - [Transifex](https://www.transifex.com/openmandriva/public/)
 - [Issue Tracking System](https://issues.openmandriva.org/)

@@ -50,8 +50,8 @@ We invite everyone to test any OpenMandriva official releases that occur, includ
 Please read: [How to report a bug](/team/qa/report-bug)
 
 ## Communication
-QA Team daily communication takes place on Freenode IRC channel #openmandriva-cooker, but remember that this is also where developers work so mind your IRC manners.
-Currently OpenMandriva contributor group is small enough that developers and QA work together on IRC.
+QA Team daily communication takes place on Matrix in `#openmandriva-cooker:matrix.org`, but remember that this is also where developers work, so mind your manners.
+Currently OpenMandriva contributor group is small enough that developers and QA work together there.
 There is also a dedicated [QA Forum](https://forum.openmandriva.org/c/en/qa).
 
 ## Meetings

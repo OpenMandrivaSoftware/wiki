@@ -22,7 +22,7 @@ We are a small all volunteer group so please be patient and give us some time to
 
 ## Where to report them?
 
-If you want to report a bug please use our [Issue Tracker](https://github.com/OpenMandrivaAssociation/distribution/issues), even if you already reported it on IRC or OpenMandriva Forum.
+If you want to report a bug please use our [Issue Tracker](https://github.com/OpenMandrivaAssociation/distribution/issues), even if you already reported it on Matrix or on the OpenMandriva Forum.
 
 - A GitHub account is required to use the Issue Tracker
 - Click the 'New issue' link (to file a new bug)

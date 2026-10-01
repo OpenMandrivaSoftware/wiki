@@ -16,7 +16,7 @@ The Council outlines the overall purpose, structure, and processes for OMA.
 The [Statutes](/team/association/statutes) & [Bylaws](/team/association/bylaws) of OMA document the policies and procedures of the Association as a non-profit organization of 1901 French Law.
 
 ## Council
-The council tends to meet two times every month @ IRC conference (#openmandriva @ freenode) to discuss various topics pertaining to the regular activities of the Association and OpenMandriva Lx distribution.
+The council tends to meet two times every month on Matrix to discuss various topics pertaining to the regular activities of the Association and OpenMandriva Lx distribution.
 The minutes to these meetings are posted on the wiki page for public access. OpenMandriva Council also uses collaborative decision-making tool.
 
 The council has to publish publicly each year an activity and an account report.

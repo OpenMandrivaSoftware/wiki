@@ -14,7 +14,7 @@ We have compiled this document to help you get started in helping us test OpenMa
 
 You will need to use the command line to test more often than not. Make sure you have an account at [ABF](https://abf.openmandriva.org/) and [Github](https://github.com/OpenMandrivaAssociation).
 
-QA Team daily communication takes place on Matrix Chat `#openmandriva-cooker:matrix.org` but remember that this is also where developers work so mind your IRC netiquette manners. 
+QA Team daily communication takes place on Matrix Chat `#openmandriva-cooker:matrix.org` but remember that this is also where developers work so mind your chat netiquette. 
 Currently OpenMandriva contributor group is small enough that developers and QA work together on Matrix rooms. There is also a dedicated [QA Forum](https://forum.openmandriva.org/c/en/qa).
 
 QA Team members are encouraged to actively attend weekly (if at all possible) TC meetings.

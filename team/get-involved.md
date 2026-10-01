@@ -17,7 +17,7 @@ dateCreated: 2022-03-24T08:54:57.934Z
 
 
 ### Development
-Check the developers documentation, [subscribe](https://www.openmandriva.org/lists) to the mailing-lists, [join IRC channels](/team/chat), and have a look at the [bug-tracking system](https://github.com/OpenMandrivaAssociation/distribution/issues) to get in touch with the developers community and get things done
+Check the developers documentation, [subscribe](https://www.openmandriva.org/lists) to the mailing-lists, [join our chat rooms](/team/chat), and have a look at the [bug-tracking system](https://github.com/OpenMandrivaAssociation/distribution/issues) to get in touch with the developers community and get things done
 
 ### Writing
 Help us improve the [documentation](https://wiki.openmandriva.org/t/documentation?sort=title), wiki materials and communication
