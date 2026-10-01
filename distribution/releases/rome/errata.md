@@ -19,6 +19,13 @@ dateCreated: 2023-02-28T15:18:26.632Z
 ## Known Issues and workarounds
 <br>
 
+### ROME 26.09
+- **OM-Welcome** may crash under Plasma X11 on some configurations with NVIDIA graphics cards, particularly with the open-source driver.
+- **VirtualBox**: booting the Wayland live ISO may give a black screen. Set the VirtualBox graphics controller to **VMSVGA**. Live images boot normally on real hardware and in QEMU/KVM.
+- **Cosmic**: no Cosmic installation image for 26.09, because of a login manager problem. Existing Cosmic installations keep working after update; new users can run `sudo dnf install task-cosmic`. If the login fails, switch from **cosmic-greeter** to **GDM** or **SDDM**.
+- The Legacy BIOS boot problem of earlier images is fixed, and a workaround for **xdg-desktop-portal** services not starting under LXQt, Xfce, Budgie and MATE is applied.
+<br>
+
 ### Steam
 The game launcher/store steam is available in the `non-free` [*(1)*](https://wiki.openmandriva.org/en/policies/repositories-tldr#non-free) repositories of OpenMandriva - but it is known to crash when started for the first time, complaining about `steamwebhelper` not responding.
 

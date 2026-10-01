@@ -11,6 +11,48 @@ dateCreated: 2023-02-28T15:34:33.449Z
 ### What's New in ROME
 <br>
 
+##### Changelog 26.09
+<br>
+
+Full announcement: [OpenMandriva ROME 26.09 Released](https://www.openmandriva.org/en/news/article/2026-10-01-openmandriva-rome-26-09/)
+<br>
+
+###### KDE
+\- [Plasma Desktop 6.7.5](https://kde.org/announcements/plasma/6/6.7.5/)
+\- Frameworks 6.29.0
+\- [KDE Gear 26.08.1](https://kde.org/announcements/gear/26.08.1/)
+\- Qt 6.11.2 (and 5.15.19)
+<br>
+
+###### Other desktops
+\- GNOME 50.3, Xfce 4.20, LXQt 2.4.0, MATE 1.28 (with an experimental Wayland session)
+\- In the repositories: hyprland 0.56.2, cosmic 1.7.0, niri 26.04, sway 1.12, i3 4.25.1, labwc 0.20.2, Spectrwm (new)
+<br>
+
+###### Display subsystem
+\- [Mesa 26.2.3](http://www.mesa3d.org/)
+\- Open NVIDIA kernel module now built into the kernel; proprietary driver 610.57.04 in `non-free`
+<br>
+
+###### Core
+\- [Kernel](https://www.kernel.org/) 7.2.7 (and 7.3.0-rc4) built with clang. GCC compiled versions also available (`kernel-desktop-gcc`)
+\- [LLVM/clang 23.1.2](http://llvm.org/)
+\- [gcc 16.2.0](https://gcc.gnu.org/)
+\- [glibc 2.44](http://www.gnu.org/software/libc/), with support for interchangeable `malloc` implementations
+\- rpm 6.1.0, with a new optional `%pgo` section in spec files
+\- grub2 2.16
+\- ROCm 10.0.0
+<br>
+
+###### Applications
+\- Helium 0.17.2, new default browser for Plasma and LXQt (replaces ungoogled-chromium)
+\- Firefox 156.0, Thunderbird 155.0, LibreOffice 26.8.0.3
+\- Krita 6.0.4 (Qt6), GIMP 3.2.4, Inkscape 1.4.4, Blender 5.2.2, OBS 32.2.2
+\- WINE 11.18, Proton 11.0+20260808, DXVK 3.0.2, vkd3d 2.0
+\- Snap support (`sudo dnf install snapd`), alongside Flatpak and AppImage
+\- Local AI tools: llama-cpp, ollama, whisper-cpp, comfyui and others, on system-wide GGML 0.24.0
+<br>
+
 ##### Changelog 25.04
 <br>
 

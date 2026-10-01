@@ -43,6 +43,11 @@ or:
 Select the release in the list, it should automatically open a download page from a mirror nearby your location.
 <br>
 
+## Direct download from our mirrors
+
+[**OpenMandriva mirrors download page**](https://mirror.openmandriva.org/downloads): the current images with their SHA256 sums, served from a mirror near you. Each image also has a `.meta4` (Metalink) link for download managers such as aria2, KGet or wget2.
+<br>
+
 ## Torrents and direct download (archive.org) 
 
 ![Website](https://img.shields.io/website?label=Archive.org%20Status&url=https%3A%2F%2Farchive.org)
@@ -51,5 +56,4 @@ Select the release in the list, it should automatically open a download page fro
 
 Click on the desired version to open the details, and download torrent or iso file from the links in the right panel.
 
-We also seed the latest releases from own seedbox to guarantee a quick downloads. Previous release downloads may be slower depending on archive.org and other remaining peer seeders.
 
