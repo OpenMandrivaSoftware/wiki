@@ -14,7 +14,10 @@ Chwido è il nome del cane di uno sviluppatore, un piccolo ratter. Essendo la ma
 
 ## Chwido nelle stanze di discussione
 
-Chwido è un bot IRC, ma visibile sia nel canale IRC che nelle stanze Matrix. E' basato su Sopel e può usare tutti i suoi comandi. Possiede inoltre alcuni comandi addizionali.
+> Questa parte di Chwido non è più attiva. Era un bot IRC, visibile nelle stanze Matrix tramite il bridge di Libera Chat, e si è fermato con la chiusura del bridge nel 2023. La pagina resta come riferimento.
+{.is-warning}
+
+Chwido era un bot IRC basato su Sopel, con tutti i suoi comandi e alcuni comandi addizionali.
 
 Qua di seguito ci sono i comandi che puoi usare:
 

@@ -49,8 +49,8 @@ Invitiamo chiunque a testare i rilasci ufficiali di OpenMandriva, comprese le [f
 Per favore leggi: [Come segnalare un bug](/doc/howto-report-bug)
 
 ## Comunicazione
-La comunicazione giornaliera del team QA avviene sul canale Freenode IRC #openmandriva-cooker, ma tieni a mente che è anche il posto dove gli sviluppatori lavorano, quindi ricordati la netiquette IRC.
-Attualmente il gruppo degli sviluppatori di OpenMandriva è piuttosto piccolo perciò lavorano assieme al team di QA su IRC.
+La comunicazione giornaliera del team QA avviene su Matrix nella stanza `#openmandriva-cooker:matrix.org`, ma tieni a mente che è anche il posto dove gli sviluppatori lavorano, quindi ricordati la netiquette.
+Attualmente il gruppo degli sviluppatori di OpenMandriva è piuttosto piccolo perciò lavorano assieme al team di QA.
 Abbiamo anche una [sezione del forum](https://forum.openmandriva.org/c/en/qa) dedicata.
 
 ## Meetings

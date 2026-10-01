@@ -59,7 +59,7 @@ We use a system called [Kahinah](https://kahinah.tsn.sh/), which uses voting to 
 Login to Kahinah. Use your Github login.
 You can see what packages are waiting to be tested in 'Recent Builds'. Give it a thumbs up or thumbs down, and let us know why.
 
-The current procedure is that packages require 3 'Accept' votes to move forward, unless there are any 'Reject' votes. If there is even one 'Reject' vote it should be questioned and discussed before moving packages. Also packages that get stuck in Kahinah with no votes for over 7 days can be moved due to QA inaction. Discussion about this takes place on Libera.Chat IRC channel #openmandriva-cooker.
+The current procedure is that packages require 3 'Accept' votes to move forward, unless there are any 'Reject' votes. If there is even one 'Reject' vote it should be questioned and discussed before moving packages. Also packages that get stuck in Kahinah with no votes for over 7 days can be moved due to QA inaction. Discussion about this takes place on Matrix in `#openmandriva-cooker:matrix.org`.
 </br>
 
 ### Testing new Alpha/Beta/RC ISOs

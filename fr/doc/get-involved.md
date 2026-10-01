@@ -17,7 +17,7 @@ dateCreated: 2022-03-03T08:54:58.749Z
 
 
 ### Développement
-Consultez la documentation des développeurs, [s'abonner](https://www.openmandriva.org/lists) aux listes de diffusion, [rejoindre les canaux IRC](/team/chat), et jetez un coup d'œil au [système de suivi des bogues](https://github.com/OpenMandrivaAssociation/distribution/issues) pour entrer en contact avec la communauté des développeurs et faire avancer les projets
+Consultez la documentation des développeurs, [s'abonner](https://www.openmandriva.org/lists) aux listes de diffusion, [rejoindre nos salons de discussion](/team/chat), et jetez un coup d'œil au [système de suivi des bogues](https://github.com/OpenMandrivaAssociation/distribution/issues) pour entrer en contact avec la communauté des développeurs et faire avancer les projets
 
 ### Rédaction
 Aidez-nous à améliorer la [documentation](https://wiki.openmandriva.org/t/documentation?sort=title), Wiki matériels et communication

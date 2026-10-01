@@ -13,7 +13,7 @@ dateCreated: 2022-03-24T08:59:42.790Z
 - [Site-ul oficial OpenMandriva](https://www.openmandriva.org)
 - [Stiri OpenMandriva](https://www.openmandriva.org/en/news/)
 - [Blogul vechi OpenMandriva (arhiva)](https://arc.openmandriva.org/blog/)
-- [OpenMandriva pe IRC/Matrix](/team/chat/)
+- [OpenMandriva pe Matrix](/team/chat/)
 - [Forum](https://forum.openmandriva.org/)
 - [Transifex](https://www.transifex.com/openmandriva/public/)
 - [Sistem de gasire a problemelor](https://github.com/OpenMandrivaAssociation/distribution/issues)

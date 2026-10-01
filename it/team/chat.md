@@ -10,7 +10,7 @@ dateCreated: 2020-03-12T11:50:57.466Z
 
 # Chat con il team di OpenMandriva
 
-Come in qualsiasi tipo di chat o IRC, le persone hanno fusi orari diversi o non sono disponibili nel momento in cui si scrive. Per motivi di lavoro, famiglia, salute o semplicemente di vita. Per favore, dateci il tempo di rispondere. Risponderemo non appena qualcuno sarà disponibile. Inoltre, sappiate che siamo un piccolo gruppo.
+Come in qualsiasi tipo di chat, le persone hanno fusi orari diversi o non sono disponibili nel momento in cui si scrive. Per motivi di lavoro, famiglia, salute o semplicemente di vita. Per favore, dateci il tempo di rispondere. Risponderemo non appena qualcuno sarà disponibile. Inoltre, sappiate che siamo un piccolo gruppo.
 
 Il modo più veloce per contattare il team di OpenMandriva è quello di collegarsi nel nostro [Matrix space](https://matrix.to/#/#openmandriva-space:matrix.org)
 <br />
@@ -31,5 +31,5 @@ Sebbene questo canale sia destinato a discussioni fuori tema e alle chiacchiere 
 Questo canale è dedicato al lavoro e alle discussioni tecniche con gli sviluppatori. Si prega di rispettare la finalità della stanza.
 <br />
 
-#### Note circa Libera Chat
-Per motivi che non sono sotto il controllo di OpenMandriva ([1](https://libera.chat/news/temporarily-disabling-the-matrix-bridge), [2](https://libera.chat/news/matrix-bridge-disabled-retrospective)) il bridge con libera.chat al momento non è funzionante. Stiamo cercando una soluzione.
+#### Nota su IRC
+OpenMandriva non usa più IRC. Libera Chat ha chiuso il suo bridge con Matrix nel 2023 ([1](https://libera.chat/news/temporarily-disabling-the-matrix-bridge), [2](https://libera.chat/news/matrix-bridge-disabled-retrospective)); da allora tutte le nostre stanze sono solo su Matrix. Va bene qualsiasi client Matrix, per esempio [Element](https://app.element.io/#/room/#openmandriva:matrix.org).

@@ -14,7 +14,7 @@ Nous avons compilé ce document pour vous aider à commencer à nous aider à te
 
 La plupart du temps, vous devrez utiliser la ligne de commande pour tester. Assurez-vous d'avoir un compte sur [ABF](https://abf.openmandriva.org/) et [Github](https://github.com/OpenMandrivaAssociation).
 
-La communication quotidienne de l'équipe AQ a lieu sur Matrix Chat `#openmandriva-cooker:matrix.org` mais n'oubliez pas que c'est aussi là que les développeurs travaillent, alors faites attention à votre nétiquette IRC. 
+La communication quotidienne de l'équipe AQ a lieu sur Matrix Chat `#openmandriva-cooker:matrix.org` mais n'oubliez pas que c'est aussi là que les développeurs travaillent, alors faites attention à votre nétiquette. 
 Actuellement, le groupe de contributeurs d'OpenMandriva est suffisamment petit pour que les développeurs et l'assurance qualité travaillent ensemble sur les salons Matrix. Il existe également un [Forum AQ](https://forum.openmandriva.org/c/en/qa).
 
 Les membres de l'équipe d'AQ sont encouragés à participer activement aux réunions hebdomadaires (dans la mesure du possible) du CT.
@@ -59,7 +59,7 @@ Nous utilisons un système appelé [Kahinah](https://kahinah.tsn.sh/), qui utili
 Connectez-vous à Kahinah. Utilisez votre login Github.
 Vous pouvez voir quels paquets attendent d'être testés dans la rubrique « Constructions récentes ». Donnez-lui un pouce en l'air ou un pouce en bas, et faites-nous savoir pourquoi.
 
-La procédure actuelle veut que les paquets nécessitent 3 votes d'acceptation pour avancer, à moins qu'il n'y ait des votes de rejet. S'il y a ne serait-ce qu'un vote « Rejet », il doit être remis en question et discuté avant de déplacer les paquets. De même, les paquets qui restent bloqués dans Kahinah sans aucun vote pendant plus de 7 jours peuvent être déplacés en raison de l'inaction de l'AQ. Les discussions à ce sujet ont lieu sur le canal IRC Libera.Chat #openmandriva-cooker.
+La procédure actuelle veut que les paquets nécessitent 3 votes d'acceptation pour avancer, à moins qu'il n'y ait des votes de rejet. S'il y a ne serait-ce qu'un vote « Rejet », il doit être remis en question et discuté avant de déplacer les paquets. De même, les paquets qui restent bloqués dans Kahinah sans aucun vote pendant plus de 7 jours peuvent être déplacés en raison de l'inaction de l'AQ. Les discussions à ce sujet ont lieu sur Matrix, dans le salon `#openmandriva-cooker:matrix.org`.
 </br>
 
 ### Test des nouvelles ISO Alpha/Beta/RC

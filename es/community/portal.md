@@ -13,7 +13,7 @@ dateCreated: 2022-03-24T08:59:42.790Z
 - [Sitio web oficial de OpenMandriva](https://www.openmandriva.org)
 - [Novedades de OpenMandriva](https://www.openmandriva.org/en/news/)
 - [Blog antiguo de OpenMandriva (archivo)](https://arc.openmandriva.org/blog/)
-- [Openmandriva en IRC/Matrix](/team/chat)
+- [OpenMandriva en Matrix](/team/chat)
 - [Foro](https://forum.openmandriva.org/)
 - [Transifex](https://www.transifex.com/openmandriva/public/)
 - [Sistema de seguimiento de incidencias](https://github.com/OpenMandrivaAssociation/distribution/issues)

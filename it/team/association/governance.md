@@ -16,7 +16,7 @@ Il Consiglio delinea gli obiettivi generali, la struttura e i processi per OMA.
 Lo [Statuto](/en/doc/statutes-constitution-fr) e il [Regolamento interno](/en/doc/bylaws) di OMA documentano le politiche e le procedure dell'Associazione come organizzazione non-profit della legge francese 1901.
 
 ## Il Consiglio
-Il Consiglio tende a incontrarsi 2 volte al mese @ conferenza IRC (#openmandriva @ freenode) per discutere vari temi riguardanti le regolari attività dell'Associazione e la distribuzione OpenMandriva Lx.
+Il Consiglio tende a incontrarsi 2 volte al mese su Matrix per discutere vari temi riguardanti le regolari attività dell'Associazione e la distribuzione OpenMandriva Lx.
 Le minute di queste conferenze sono pubblicate qui in modo da garantire l'accesso pubblico. Il Consiglio di OpenMandriva utilizza metodi decisionali collaborativi.
 
 Il consiglio deve rendere pubblici ogni anno l'attività e il resoconto.
