@@ -222,7 +222,7 @@ e execute:
 `$ sudo systemctl enable --now bluetooth`
 <br>
 
-### SystemSettings
+### Configurações do sistema
 Alguns módulos nas Configurações do Sistema podem não ser exibidos corretamente na primeira inicialização.
 Eles serão exibidos no próximo login.
 <br>
