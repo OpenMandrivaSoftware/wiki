@@ -39,7 +39,7 @@ OpenMandriva Lx 4.3 é o novo lançamento da OpenMandriva Association. [Codinome
 - gcc 11.2 [*(mais informações)*](https://gcc.gnu.org/)
 - glibc 2.34 [*(mais informações)*](http://www.gnu.org/software/libc/)
 - Java 17
-- Zstandard - ẽ um novo algoritimo de compressão em tempo real, provê uma alta taxa de compressão implementada em nosso kernel, tornando a inicialização mais rápida.
+- Zstandard - é um novo algoritimo de compressão em tempo real, provê uma alta taxa de compressão implementada em nosso kernel, tornando a inicialização mais rápida.
 
 A OpenMandriva disponibiliza um kernel compilado em clang. Os usuários podem instalar a mesma versão do pacote `kernel-release-desktop` e `kernel-release-desktop-clang` para comparação.
 
