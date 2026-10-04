@@ -38,7 +38,7 @@ OpenMandriva Lx 4.1 é o novo lançamento da Associação OpenMandriva. [Codenam
 - gcc 9.2.1 [*(Mais informações)*](https://gcc.gnu.org/)
 - glibc 2.30 [*(Mais informações)*](http://www.gnu.org/software/libc/)
 - Java 13
-- Zstandard - ẽ um novo algoritimo de compressão em tempo real, provê uma alta taxa de compressão implementada em nosso kernel, tornando a inicialização mais rápida.
+- Zstandard - é um novo algoritimo de compressão em tempo real, provê uma alta taxa de compressão implementada em nosso kernel, tornando a inicialização mais rápida.
 
 ### Instalador
 
