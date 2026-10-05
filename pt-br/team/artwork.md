@@ -61,7 +61,7 @@ Logotipo completo - Preto
 |------|------------|
 |2080BB|Eastern Blue|
 |40A5DA|Shakespeare |
-|005C9D<br data-mce-bogus="1">|Endeavour<br data-mce-bogus="1">   |
+|005C9D|Endeavour   |
 |21242B<br data-mce-bogus="1">|Shark<br data-mce-bogus="1">       |
 |AFB3BD<br data-mce-bogus="1">|Bombay<br data-mce-bogus="1">      |
 |E2266E<br data-mce-bogus="1">|Cerise red<br data-mce-bogus="1">  |
