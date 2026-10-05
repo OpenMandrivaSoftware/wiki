@@ -65,7 +65,7 @@ Logotipo completo - Preto
 |21242B|Shark       |
 |AFB3BD|Bombay      |
 |E2266E|Cerise red  |
-|FFFFFF<br data-mce-bogus="1">|branco<br data-mce-bogus="1">       |
+|FFFFFF|branco       |
 |000000|preto<br data-mce-bogus="1">       |
 
 
