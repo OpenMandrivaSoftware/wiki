@@ -25,11 +25,11 @@ Azul
 ![openmandriva-logo-blu.svg](/logo/openmandriva-logo-blu.svg)
 
 --- 
-Logotipo completo - Azul<br data-mce-bogus="1">
+Logotipo completo - Azul
 
-![openmandriva-blu.svg](/logo/openmandriva-blu.svg)<br data-mce-bogus="1">
+![openmandriva-blu.svg](/logo/openmandriva-blu.svg)
 
----<br data-mce-bogus="1">
+---
 Logotipo completo - Branco<br data-mce-bogus="1">
 
 ![openmandriva-wh.svg](/logo/openmandriva-wh.svg)<br data-mce-bogus="1">
