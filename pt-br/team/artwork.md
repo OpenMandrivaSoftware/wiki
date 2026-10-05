@@ -18,13 +18,13 @@ Degradê
 
 ---
 Branco
-![openmandriva-logo-wh.svg](/logo/openmandriva-logo-wh.svg) <br data-mce-bogus="1">
+![openmandriva-logo-wh.svg](/logo/openmandriva-logo-wh.svg)
 
----<br data-mce-bogus="1">
+---
 Azul
-![openmandriva-logo-blu.svg](/logo/openmandriva-logo-blu.svg)<br data-mce-bogus="1">
+![openmandriva-logo-blu.svg](/logo/openmandriva-logo-blu.svg)
 
---- <br data-mce-bogus="1">
+--- 
 Logotipo completo - Azul<br data-mce-bogus="1">
 
 ![openmandriva-blu.svg](/logo/openmandriva-blu.svg)<br data-mce-bogus="1">
