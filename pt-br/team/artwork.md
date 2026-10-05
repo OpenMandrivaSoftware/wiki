@@ -10,13 +10,13 @@ dateCreated: 2020-03-08T07:52:00.113Z
 
 ## Logotipo
 
-[![oma-logo-22042013-300pp.png](/art/oma-logo-22042013-300pp.png =200x)](/art/oma-logo-22042013-300pp.png)<br data-mce-bogus="1">
+[![oma-logo-22042013-300pp.png](/art/oma-logo-22042013-300pp.png =200x)](/art/oma-logo-22042013-300pp.png)
 
----<br data-mce-bogus="1">
+---
 Degradê
 ![openmandriva-logo-gr.svg](/logo/openmandriva-logo-gr.svg) <br data-mce-bogus="1">
 
----<br data-mce-bogus="1">
+---
 Branco
 ![openmandriva-logo-wh.svg](/logo/openmandriva-logo-wh.svg) <br data-mce-bogus="1">
 
