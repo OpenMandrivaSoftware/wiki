@@ -32,9 +32,9 @@ Logotipo completo - Azul
 ---
 Logotipo completo - Branco
 
-![openmandriva-wh.svg](/logo/openmandriva-wh.svg)<br data-mce-bogus="1">
+![openmandriva-wh.svg](/logo/openmandriva-wh.svg)
 
----<br data-mce-bogus="1">
+---
 Logotipo completo - Preto<br data-mce-bogus="1">
 
 ![openmandriva-bk.svg](/logo/openmandriva-bk.svg)<br data-mce-bogus="1">
