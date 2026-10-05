@@ -40,9 +40,9 @@ Logotipo completo - Preto
 ![openmandriva-bk.svg](/logo/openmandriva-bk.svg)
 
 
-## Cor em degradê<br data-mce-bogus="1">
+## Cor em degradê
 
-[![oma-logo-variation-22042013.png](/art/oma-logo-variation-22042013.png =600x)](/art/oma-logo-variation-22042013.png)<br data-mce-bogus="1">
+[![oma-logo-variation-22042013.png](/art/oma-logo-variation-22042013.png =600x)](/art/oma-logo-variation-22042013.png)
 
 ## Guia de estilo da OpenMandriva: logotipo<br data-mce-bogus="1">
 
