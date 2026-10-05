@@ -30,7 +30,7 @@ Logotipo completo - Azul
 ![openmandriva-blu.svg](/logo/openmandriva-blu.svg)
 
 ---
-Logotipo completo - Branco<br data-mce-bogus="1">
+Logotipo completo - Branco
 
 ![openmandriva-wh.svg](/logo/openmandriva-wh.svg)<br data-mce-bogus="1">
 
