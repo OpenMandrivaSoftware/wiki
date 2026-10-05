@@ -14,7 +14,7 @@ dateCreated: 2020-03-08T07:52:00.113Z
 
 ---
 Degradê
-![openmandriva-logo-gr.svg](/logo/openmandriva-logo-gr.svg) <br data-mce-bogus="1">
+![openmandriva-logo-gr.svg](/logo/openmandriva-logo-gr.svg) 
 
 ---
 Branco
