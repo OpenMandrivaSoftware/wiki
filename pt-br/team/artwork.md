@@ -66,11 +66,11 @@ Logotipo completo - Preto
 |AFB3BD|Bombay      |
 |E2266E|Cerise red  |
 |FFFFFF|branco       |
-|000000|preto<br data-mce-bogus="1">       |
+|000000|preto       |
 
 
 
-## Chwido<br data-mce-bogus="1">
+## Chwido
 
 ![chwido200.png](/art/chwido200.png)
 
