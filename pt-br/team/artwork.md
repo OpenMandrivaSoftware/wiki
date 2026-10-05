@@ -52,9 +52,9 @@ Logotipo completo - Preto
 
 [![oma-style-sheet-font-24052013.png](/art/oma-style-sheet-font-24052013.png =600x)](/art/oma-style-sheet-font-24052013.png)
 
-## Paleta de cores da OpenMandriva<br data-mce-bogus="1">
+## Paleta de cores da OpenMandriva
 
-![omacolorpalettevnt.png](/art/omacolorpalettevnt.png =400x)<br data-mce-bogus="1">
+![omacolorpalettevnt.png](/art/omacolorpalettevnt.png =400x)
 
 
 |      |            |
