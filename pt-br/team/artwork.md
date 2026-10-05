@@ -46,11 +46,11 @@ Logotipo completo - Preto
 
 ## Guia de estilo da OpenMandriva: logotipo
 
-[![oma-style-sheet-logo-24052013.png](/art/oma-style-sheet-logo-24052013.png =600x)](/art/oma-style-sheet-logo-24052013.png)<br data-mce-bogus="1">
+[![oma-style-sheet-logo-24052013.png](/art/oma-style-sheet-logo-24052013.png =600x)](/art/oma-style-sheet-logo-24052013.png)
 
-## Guia de estilo da OpenMandriva: tipografia<br data-mce-bogus="1">
+## Guia de estilo da OpenMandriva: tipografia
 
-[![oma-style-sheet-font-24052013.png](/art/oma-style-sheet-font-24052013.png =600x)](/art/oma-style-sheet-font-24052013.png)<br data-mce-bogus="1">
+[![oma-style-sheet-font-24052013.png](/art/oma-style-sheet-font-24052013.png =600x)](/art/oma-style-sheet-font-24052013.png)
 
 ## Paleta de cores da OpenMandriva<br data-mce-bogus="1">
 
