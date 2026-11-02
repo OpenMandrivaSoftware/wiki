@@ -32,4 +32,4 @@ dateCreated: 2020-03-01T12:32:00.560Z
 Ни при каких обстоятельствах не используйте название "Mandriva" для обозначения OpenMandriva Association или продуктов OpenMandriva.<br>
 Права на бренд Mandriva и соответствующие логотипы принадлежат Mandriva SA или её законному правопреемнику.
 
-*Источник*: [Лицензионные условия использования товарных знаков OpenMandriva (EN)](/policies/oma-tm-licence-en)
+*Источник*: [Лицензионные условия использования товарных знаков OpenMandriva EN](/policies/oma-tm-licence-en)
