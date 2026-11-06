@@ -105,7 +105,7 @@ dateCreated: 2020-03-06T18:48:34.373Z
 and
 `$ man dnf4` or `$ man dnf5` 
 
-Ознакомление со справкой занимает примерно от одной до полутора минут, а чтение руководства man — около 3-5 минут.
+Ознакомление со справкой занимает примерно от одной до полутора минут, а чтение руководства man - около 3-5 минут.
 Оба источника предназначены для того, чтобы пользователи могли быстро находить нужные команды и инструкции во время работы с системой.
 
 Дополнительную информацию о dnf можно найти в вики и документации: [Использование менеджера пакетов DNF](https://docs.fedoraproject.org/en-US/quick-docs/dnf/), [страница DNF в вики Fedora](https://fedoraproject.org/wiki/DNF?rd=Dnf), [справочник команд DNF5](https://dnf5.readthedocs.io/en/latest/index.html) | [справочник команд DNF4](https://dnf.readthedocs.io/en/latest/command_ref.html) | [Изменения между DNF(4) и DNF5](https://dnf5.readthedocs.io/en/latest/changes_from_dnf4.7.html)
