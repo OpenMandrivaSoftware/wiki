@@ -10,7 +10,7 @@ dateCreated: 2021-04-24T05:47:33.989Z
 
 # Обзор
 
-OpenMandriva ROME — выпуск с непрерывными обновлениями от OpenMandriva Association. [Кодовое имя](/policies/codename) — Rome.
+OpenMandriva ROME - выпуск с непрерывными обновлениями от OpenMandriva Association. [Кодовое имя](/policies/codename) - Rome.
 
 
 [![rome-boot.jpg](/images/rome-boot.jpg =400x)](/images/rome-boot.jpg) [![rome-ksplash.jpg](/images/rome-ksplash.jpg =400x)](/images/rome-ksplash.jpg)   
