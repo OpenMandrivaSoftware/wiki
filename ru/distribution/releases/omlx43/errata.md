@@ -21,17 +21,17 @@ dateCreated: 2021-04-24T05:21:24.743Z
 ## Известные проблемы и способы их обхода
 <br />
 
-### NVIDIA Graphics Cards
+### Видеокарты NVIDIA
 
-This release includes the reverse engineered nouveau driver, which gives moderately good
-support for most NVIDIA cards. For some dual-screen work it is actually better than
-NVIDIA binary driver as it supports screen rotation on a second monitor useful for
-monitors with rotatable screens.
-Users may use drivers from nvidia web site but they are not supported by OpenMandriva.
-These can not be supported by OpenMandriva for a number of reasons.
-Installing and maintaining any proprietary nVidia drivers is solely the users option and
-responsibility. 
-There are community supported nvidia drivers available in non-free repository.
+В этот выпуск включён драйвер nouveau, разработанный методом реверс-инжиниринга и обеспечивающий неплохую
+поддержку большинства видеокарт NVIDIA. При работе с двумя экранами он в некоторых случаях даже лучше
+проприетарного драйвера NVIDIA, поскольку поддерживает поворот изображения на втором мониторе, что полезно для
+мониторов с поворотным экраном.
+Пользователи могут использовать драйверы с сайта NVIDIA, но команда OpenMandriva их не поддерживает.
+По ряду причин команда OpenMandriva не может обеспечивать их поддержку.
+Установка и обслуживание любых проприетарных драйверов NVIDIA — исключительно личный выбор и
+ответственность пользователей. 
+Драйверы NVIDIA, поддерживаемые сообществом, доступны в репозитории non-free.
 <br />
 ### NVME SSDs
 
