@@ -10,7 +10,7 @@ dateCreated: 2025-03-10T18:29:59.676Z
 
 # Обзор
 
-OpenMandriva Lx 6.0 — это новая версия от Ассоциации OpenMandriva. [Кодовое имя](/policies/codename) Vanadium.
+OpenMandriva Lx 6.0 - это новая версия от Ассоциации OpenMandriva. [Кодовое имя](/policies/codename) Vanadium.
 
 
 [![omlx60-login.jpg](/images/omlx60-login.jpg =400x)](/images/omlx60-login.jpg) [![omlx60-ksplash.jpg](/images/omlx60-ksplash.jpg =400x)](/images/omlx60-ksplash.jpg)   
