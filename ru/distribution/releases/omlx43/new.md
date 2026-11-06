@@ -47,7 +47,7 @@ OpenMandriva предоставляет ядро Linux, скомпилирова
 
 - Calamares 3.2.39 [*(подробнее)*](https://calamares.io)
 
-### Applications
+### Приложения
 
 - LibreOffice 7.3.0
 - Falkon 3.2
