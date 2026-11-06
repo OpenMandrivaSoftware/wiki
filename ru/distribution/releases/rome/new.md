@@ -45,7 +45,7 @@ dateCreated: 2023-02-28T15:34:33.449Z
 <br>
 
 ###### Приложения
-- Helium 0.17.2 — новый браузер по умолчанию для Plasma и LXQt, (заменивший ungoogled-chromium)
+- Helium 0.17.2 - новый браузер по умолчанию для Plasma и LXQt, (заменивший ungoogled-chromium)
 - Firefox 156.0, Thunderbird 155.0, LibreOffice 26.8.0.3
 - Krita 6.0.4 (Qt6), GIMP 3.2.4, Inkscape 1.4.4, Blender 5.2.2, OBS 32.2.2
 - WINE 11.18, Proton 11.0+20260808, DXVK 3.0.2, vkd3d 2.0
