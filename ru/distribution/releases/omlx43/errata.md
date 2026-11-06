@@ -55,11 +55,10 @@ dateCreated: 2021-04-24T05:21:24.743Z
 затем выполните:
 `$ sudo update-grub2`
 
-If (NVME APST=OFF) worked then add instead:
+Если вам помог параметр (NVME APST=OFF), вместо него добавьте:
 `nvme_core.default_ps_max_latency_us=0`
 
-As always users are encouraged to ask questions about anything you do not understand
-on our [forum](https://forum.openmandriva.org/).
+Как всегда, если вам что-то непонятно, не стесняйтесь задавать вопросы на нашем [форуме](https://forum.openmandriva.org/).
 <br />
 
 ### GEOIP
