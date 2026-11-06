@@ -10,7 +10,7 @@ dateCreated: 2022-12-26T09:58:41.141Z
 
 # Обзор
 
-OpenMandriva Lx 5.0 — это новая версия от Ассоциации OpenMandriva. [Кодовое имя](/policies/codename) Iodine.
+OpenMandriva Lx 5.0 - это новая версия от Ассоциации OpenMandriva. [Кодовое имя](/policies/codename) Iodine.
 
 
 [![omlx50-login.jpg](/images/omlx50-login.jpg =400x)](/images/omlx50-login.jpg) [![omlx50-ksplash.jpg](/images/omlx50-ksplash.jpg =400x)](/images/omlx50-ksplash.jpg)   
