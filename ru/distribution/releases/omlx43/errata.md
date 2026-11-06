@@ -33,7 +33,7 @@ dateCreated: 2021-04-24T05:21:24.743Z
 ответственность пользователей. 
 Драйверы NVIDIA, поддерживаемые сообществом, доступны в репозитории non-free.
 <br />
-### NVME SSDs
+### SSD NVMe
 
 There is a well known problem with some (especially newer) NVME SSDs and PCIE devices
 where the SSD may not be recognized.
