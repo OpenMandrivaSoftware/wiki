@@ -126,9 +126,11 @@ prober и grub2, несовместимый с кодом OMLx. В настоя�
 `$ sudo dnf remove pipewire-pulse ; sudo dnf install pulseaudio-server`
 <br />
 
-### Updating Firefox
+### Обновление Firefox
 
-OpenMandriva's stable release aka Rock does not normally get updates to system and tool-chain packages. Because of this and because of how Mozilla develops Firefox sometimes Firefox packages will no longer build for our stable release. For users concerned about not having the latest version of Firefox a workaround is to install from [mozilla.org](https://www.mozilla.org/) the latest version of Firefox RR (Rapid Release) or [mozilla.org](https://support.mozilla.org/en-US/kb/switch-to-firefox-extended-support-release-esr) the latest version of Firefox ESR (Extended Support Release) version which gets all security updates but not feature updates.
+Стабильный выпуск OpenMandriva, также известный как Rock, обычно не получает обновлений системных пакетов и инструментов разработки. Из-за этого, а также особенностей разработки Firefox компанией Mozilla, иногда новые версии Firefox перестают собираться для нашего стабильного выпуска.
+
+Пользователи, которым необходима последняя версия Firefox, могут в качестве обходного решения установить с сайта [mozilla.org](https://www.mozilla.org/) актуальную версию Firefox RR (Rapid Release) или с сайта [mozilla.org](https://support.mozilla.org/en-US/kb/switch-to-firefox-extended-support-release-esr) последнюю версию Firefox ESR (Extended Support Release), которая получает все обновления безопасности, но не обновления функциональности.
 <br />
 
 ### Zypper
