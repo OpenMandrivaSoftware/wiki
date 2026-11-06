@@ -99,30 +99,29 @@ $ sudo dnf install task-printing-okidata
 
 ### Мультизагрузка
 
-In the 'real world' multiboot works well most of the time but when there are problems
-sometimes the solution is a workaround rather than a fix. These are just realities of
-multiboot.
-Also it is not currently possible for OpenMandriva QA to test our bootloader with every file
-system type on every Linux distro, or even on "Top 10" Linux distros. The fact is that
-whether multi-booting with Windows or other Linux distros we rely exclusively on users'
-reports to know what does and what does not work regarding multi-booting.
-One known problem encountered with OMLx bootloader is that OpenMandriva grub2 does
-not create boot entries for openSUSE systems that use btrfs file system. OMLx grub2 does
-work with openSUSE systems that use ext4 file system.
-This is because openSUSE uses custom syntax for their btrfs patches for openSUSE os-
-prober and grub2 packages that are not compatible with OMLx code. It is not presently
-known if OMLx bootloader does/does not work with openSUSE with any other file system
-types such as XFS or F2FS.
-The workaround is for users to switch boot-loaders in UEFI firmware settings or BIOS.
-Alternative may be to use openSUSE bootloader if it recognizes your OpenMandriva
-system.
-As users report multiboot issues we will fix what we are able to. Issues we are unable to fix
-we will report in Errata for our OMLx Releases.
+На практике мультизагрузка в большинстве случаев работает нормально, однако при возникновении проблем
+иногда приходится использовать обходные решения вместо полноценного исправления. Таковы особенности
+мультизагрузки.
+Кроме того, в настоящее время команда OpenMandriva QA не имеет возможности проверить совместимость нашего загрузчика со всеми
+типами файловых систем во всех дистрибутивах Linux, даже если ограничиться "Топ-10". Поэтому
+при использовании мультизагрузки с Windows или другими дистрибутивами Linux мы полностью полагаемся на сообщения
+пользователей, чтобы понимать, какие конфигурации работают, а какие вызывают проблемы.
+Одна из известных проблем загрузчика OMLx заключается в том, что OpenMandriva grub2 не
+создаёт загрузочные записи для систем openSUSE, использующих файловую систему btrfs. При этом OMLx grub2
+корректно работает с системами openSUSE, использующими ext4.
+Причина заключается в том, что openSUSE использует собственный синтаксис в исправлениях для поддержки btrfs в пакетах os-
+prober и grub2, несовместимый с кодом OMLx. В настоящее время
+неизвестно, работает ли загрузчик OMLx с openSUSE при использовании других файловых систем,
+таких как XFS или F2FS.
+В качестве обходного решения пользователи могут переключать загрузчики в настройках UEFI или BIOS.
+Другой вариант — использовать загрузчик openSUSE, если он обнаруживает установленную систему OpenMandriva.
+По мере поступления сообщений от пользователей мы будем исправлять проблемы мультизагрузки, которые сможем устранить. Проблемы, которые нам не удастся исправить,
+будут перечислены в разделе известных проблем и ошибок соответствующих выпусков OMLx.
 <br />
 
-### Pipewire sound server
+### Звуковой сервер PipeWire
 
-Some users may experience issues with the new Pipewire sound server. If so user may switch to the older pulseaudio sound server. To do this open Konsole and run the following copy and paste command:
+У некоторых пользователей могут возникнуть проблемы с новым звуковым сервером PipeWire. В таком случае можно вернуться к прежнему звуковому серверу PulseAudio. Для этого откройте Konsole, скопируйте и выполните следующую команду:
 
 `$ sudo dnf remove pipewire-pulse ; sudo dnf install pulseaudio-server`
 <br />
