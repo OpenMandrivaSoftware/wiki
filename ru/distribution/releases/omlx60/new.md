@@ -9,7 +9,7 @@ dateCreated: 2025-03-10T18:36:16.131Z
 ---
 
 ## Что нового в OpenMandriva Lx 6.0?
-OpenMandriva Lx 6.0 — новый выпуск от Ассоциации OpenMandriva. [Кодовое имя](/policies/codename) — Vanadium.
+OpenMandriva Lx 6.0 - новый выпуск от Ассоциации OpenMandriva. [Кодовое имя](/policies/codename) - Vanadium.
 Рекомендуем ознакомиться с актуальными [примечаниями к выпуску](/distribution/releases/omlx60/notes) в нашей вики.
 <br>
 **Основные возможности**
