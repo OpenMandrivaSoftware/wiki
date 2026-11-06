@@ -1,5 +1,5 @@
 ---
-title: OpenMandriva Lx 4.3 Errata
+title: Известные проблемы и ошибки OpenMandriva Lx 4.3
 description: 
 published: true
 date: 2022-10-13T22:30:54.262Z
