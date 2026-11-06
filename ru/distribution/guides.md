@@ -14,9 +14,9 @@ dateCreated: 2022-03-24T08:32:14.595Z
 
 - https://wiki.openmandriva.org/distribution/guides/how-tos
 
-- [Форум — раздел «Ресурсы»](https://forum.openmandriva.org/c/13)
+- [Форум - раздел «Ресурсы»](https://forum.openmandriva.org/c/13)
 
-- [Форум — советы для начинающих](https://forum.openmandriva.org/t/5637)
+- [Форум - советы для начинающих](https://forum.openmandriva.org/t/5637)
 
 
 
