@@ -9,7 +9,7 @@ dateCreated: 2020-02-26T23:18:55.921Z
 ---
 
 # Обзор
-OpenMandriva Lx 4.2 — новый выпуск дистрибутива от ассоциации OpenMandriva. [Кодовое имя](/policies/codename) — Argon.
+OpenMandriva Lx 4.2 - новый выпуск дистрибутива от ассоциации OpenMandriva. [Кодовое имя](/policies/codename) - Argon.
 
 [![omlx.4.2beta-01202012.jpg](/images/omlx.4.2beta-01202012.jpg =400x)](/images/omlx.4.2beta-01202012.jpg) [![omlx.4.2-om-welc.jpg](/images/omlx.4.2-om-welc.jpg =400x)](/images/omlx.4.2-om-welc.jpg)
 [![omlx.4.2-kinf.jpg](/images/omlx.4.2-kinf.jpg =400x)](/images/omlx.4.2-kinf.jpg) [![omlx.4.2-krita.jpg](/images/omlx.4.2-krita.jpg =400x)](/images/omlx.4.2-krita.jpg) 
