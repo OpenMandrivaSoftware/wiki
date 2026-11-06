@@ -147,12 +147,12 @@ prober и grub2, несовместимый с кодом OMLx. В настоя�
 `$ sudo systemctl start bluetooth ; sudo systemctl enable bluetooth`
 <br />
 
-## What to do if I have a problem
+## Что делать при возникновении проблемы
 
-Should you have problems please report in the [English Support forum](https://forum.openmandriva.org/c/en/support) with a descriptive title and enough of a description and information for someone to be able to help you. If your issue is a serious technical issue then please [file a bug report](https://github.com/OpenMandrivaAssociation/distribution/issues).
+Если у вас возникли проблемы, сообщите о них на [англоязычном форуме поддержки](https://forum.openmandriva.org/c/en/support). Укажите понятный заголовок и подробно опишите проблему, предоставив достаточно информации, чтобы другие участники могли вам помочь. Если вы столкнулись с серьёзной технической проблемой, пожалуйста, [создайте отчёт об ошибке](https://github.com/OpenMandrivaAssociation/distribution/issues).
 <br />
 
-## Helping the project
+## Помощь проекту
 
 The OpenMandriva development teams (Cooker & QA) are always looking for new
 contributors to assist in creating and maintaining packages and to assist bugfixing and
