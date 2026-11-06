@@ -56,7 +56,7 @@ dateCreated: 2020-03-01T20:38:27.627Z
 
 ## Собрания
 Участникам команды QA рекомендуется активно посещать еженедельные заседания Технического комитета (TC). Если присутствовать не получается, следует читать [протоколы заседаний](https://chwido.openmandriva.org/meetings/%23openmandriva-cooker/), чтобы быть в курсе происходящего.
-Анонсы заседаний TC публикуются [здесь](https://forum.openmandriva.org/t/events-and-meetings-calendar/2735), а сами заседания проходят в комнате #openmandriva-cooker.
+Анонсы заседаний TC публикуются [здесь](https://forum.openmandriva.org/t/events-and-meetings-calendar/2735), а сами заседания проходят в комнате #openmandriva-cooker. 
 
 
 .
