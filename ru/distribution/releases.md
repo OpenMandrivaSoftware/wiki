@@ -76,7 +76,7 @@ dateCreated: 2020-02-27T22:08:23.833Z
 ![omlx2013-240px.png](/images/omlx2013-240px.png)
 Кодовое имя: Oxygen
 Дата выпуска: 22 ноября 2013 года
-OpenMandriva Lx 2013.0 — первый выпуск Ассоциации OpenMandriva и преемник Mandriva Linux 2011.
+OpenMandriva Lx 2013.0 - первый выпуск Ассоциации OpenMandriva и преемник Mandriva Linux 2011.
 <br>
 
 ![header-tr-omlx.svg](/assets/header-tr-omlx.svg){.align-abstopright}
