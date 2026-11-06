@@ -135,14 +135,14 @@ prober и grub2, несовместимый с кодом OMLx. В настоя�
 
 ### Zypper
 
-The package zypper-needs-restarting may conflict with dnf-utils if installed.
-As a workaround remove dnf-utils.
+Установленный пакет zypper-needs-restarting может конфликтовать с dnf-utils.
+В качестве обходного решения удалите пакет dnf-utils.
 <br />
 
 ### Bluetooth
 
-For bluetooth devices user may need to enable systemd bluetooth.service. Open Konsole
-and run:
+Для работы устройств Bluetooth может потребоваться включить службу systemd bluetooth.service. Откройте Konsole
+и выполните команду:
 
 `$ sudo systemctl start bluetooth ; sudo systemctl enable bluetooth`
 <br />
