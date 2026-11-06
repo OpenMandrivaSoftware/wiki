@@ -9,7 +9,7 @@ dateCreated: 2022-12-26T18:22:40.448Z
 ---
 
 ## Что нового в OpenMandriva Lx 5.0?
-OpenMandriva Lx 5.0 — новый выпуск от Ассоциации OpenMandriva. [Кодовое имя](/policies/codename) — Iodine.
+OpenMandriva Lx 5.0 - новый выпуск от Ассоциации OpenMandriva. [Кодовое имя](/policies/codename) - Iodine.
 Рекомендуем ознакомиться с актуальными [примечаниями к выпуску](/distribution/releases/omlx50/notes) в нашей вики.
 <br>
 **Основные возможности**
