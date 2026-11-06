@@ -3,7 +3,7 @@ title: Руководство по оформлению вики OpenMandriva
 description: 
 published: true
 date: 2022-01-24T19:15:25.305Z
-tags: инструкции, правила, wiki, документация
+tags: howto, policies, wiki, documentation
 editor: markdown
 dateCreated: 2020-03-13T11:27:11.684Z
 ---
