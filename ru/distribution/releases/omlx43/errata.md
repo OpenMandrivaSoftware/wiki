@@ -35,24 +35,24 @@ dateCreated: 2021-04-24T05:21:24.743Z
 <br />
 ### SSD NVMe
 
-There is a well known problem with some (especially newer) NVME SSDs and PCIE devices
-where the SSD may not be recognized.
-Problem is known and being worked on by OpenMandriva developers and upstream
-developers.
-Hardware recognition for nvme SSDs is considerably improved for OMLx 4.3.
-This issue is of course very hardware specific.
+Существует известная проблема с некоторыми (особенно новыми) SSD NVMe и устройствами PCIe,
+из-за которой SSD может не распознаваться системой.
+Проблема известна, и над её устранением работают разработчики OpenMandriva и вышестоящих
+проектов.
+В OMLx 4.3 распознавание SSD NVMe значительно улучшено.
+Эта проблема, разумеется, во многом зависит от конкретного оборудования.
 
-On installed system user may wish to add this workaround to /etc/default/grub and
-run update-grub2 to make workaround global. You would use the one that you found to
-work on the Live ISO.
-If (PCIE ASPM=OFF) worked for you then add:
+После установки системы можно добавить этот обходной способ в файл /etc/default/grub и
+выполнить update-grub2, чтобы настройка применялась при каждой загрузке. Используйте тот вариант, который
+успешно работал при загрузке Live ISO.
+Если вам помог параметр (PCIE ASPM=OFF), добавьте:
 `pcie=aspm=off`
-to the lines:
+в строки:
 `GRUB_DECLINE_LINUX_DEFAULT`
 `GRUB_DECLINE_LINUX_RECOVERY`
-in
+файла
 `/etc/default/grub`
-and then run:
+затем выполните:
 `$ sudo update-grub2`
 
 If (NVME APST=OFF) worked then add instead:
