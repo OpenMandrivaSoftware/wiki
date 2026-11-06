@@ -8,17 +8,17 @@ editor: markdown
 dateCreated: 2021-04-24T05:21:24.743Z
 ---
 
-# OpenMandriva Lx 4.3 Errata - Known Issues
+# Список ошибок OpenMandriva Lx 4.3 - Известные проблемы
 
-> As with any release, there are still issues and bugs that may not have been resolved. This page documents those that may cause inconvenience and where possible details how they may be worked around.
+> Как и в любом выпуске, в этой версии могут оставаться нерешённые проблемы и ошибки. На этой странице перечислены проблемы, которые могут вызвать неудобства, а также, по возможности, описаны способы их обхода.
 {.is-info}
 
-As with any release, there are still issues and bugs that may not have been resolved.
-This page documents those that may cause inconvenience and where possible details
-how they may be worked around.
+Как и в любом выпуске, в этой версии могут оставаться нерешённые проблемы и ошибки.
+На этой странице перечислены проблемы, которые могут вызвать неудобства, а также, по возможности,
+описаны способы их обхода.
 <br />
 
-## Known Issues and workarounds
+## Известные проблемы и способы их обхода
 <br />
 
 ### NVIDIA Graphics Cards
