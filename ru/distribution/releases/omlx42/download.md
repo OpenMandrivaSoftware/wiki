@@ -20,7 +20,7 @@ dateCreated: 2021-10-05T15:02:19.327Z
 
 ## Торрент (Peer to Peer)
 
-BitTorrent — удобный способ загрузки OpenMandriva.
+BitTorrent - удобный способ загрузки OpenMandriva.
 
 У нас есть собственный высокоскоростной сервер раздачи.
 
