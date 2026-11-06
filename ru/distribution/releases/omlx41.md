@@ -9,7 +9,7 @@ dateCreated: 2020-02-28T12:10:43.453Z
 ---
 
 # Обзор
-OpenMandriva Lx 4.1 — новый выпуск дистрибутива от ассоциации OpenMandriva. [Кодовое имя](/releases/codename) — Mercury.
+OpenMandriva Lx 4.1 - новый выпуск дистрибутива от ассоциации OpenMandriva. [Кодовое имя](/releases/codename) - Mercury.
 
 [![omlx4.1-desktop.jpg](/images/omlx4.1-desktop.jpg =400x)](/images/omlx4.1-desktop.jpg) [![omlx4.1-appmenu08.jpg](/images/omlx4.1-appmenu08.jpg =400x)](/images/omlx4.1-appmenu08.jpg)
 
