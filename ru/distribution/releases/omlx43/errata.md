@@ -154,19 +154,19 @@ prober и grub2, несовместимый с кодом OMLx. В настоя�
 
 ## Помощь проекту
 
-The OpenMandriva development teams (Cooker & QA) are always looking for new
-contributors to assist in creating and maintaining packages and to assist bugfixing and
-testing. You are welcome to join us and help us in this work which is not only rewarding but
-also tremendous fun!
-If you feel that your talents do not lie in the realm of software, then the OpenMandriva
-Workshop group, which is made up from the artwork, documentation, translation and
-Communication teams, is always open for the submissions of artwork and translations.
-New contributors who would like to help with these wide-ranging tasks should see the wiki
-for more details, and to learn how to join! Alternatively you may use our [forum](https://forum.openmandriva.org).
-It also costs time and money to keep our servers up and running. If you can, please [donate](https://www.openmandriva.org/en/Donate)
-to keep the lights on!
+Команды разработчиков OpenMandriva (Cooker и QA) всегда рады новым
+участникам, готовым помогать в создании и сопровождении пакетов, исправлении ошибок и
+тестировании. Присоединяйтесь к нам! Эта работа не только приносит пользу, но и
+доставляет огромное удовольствие!
+Если разработка программного обеспечения не входит в круг ваших интересов, группа OpenMandriva
+Workshop, объединяющая команды по оформлению, документации, переводу и
+коммуникациям, всегда открыта для новых материалов оформления и переводов.
+Желающим принять участие в любом из этих направлений рекомендуем посетить нашу вики,
+чтобы узнать подробности и способы присоединения к проекту. Вы также можете обратиться на наш [форум](https://forum.openmandriva.org).
+Поддержание работы наших серверов также требует времени и финансовых затрат. Если у вас есть возможность, пожалуйста, [поддержите проект пожертвованием](https://www.openmandriva.org/en/Donate),
+чтобы мы могли продолжать работу!
 <br />
 
-**Please read also**
-[OMLx 4.3 Release Notes](https://wiki.openmandriva.org/en/distribution/releases/omlx43/notes)
+**Рекомендуем также ознакомиться**
+[Примечания к выпуску OMLx 4.3](https://wiki.openmandriva.org/en/distribution/releases/omlx43/notes)
 <br>
