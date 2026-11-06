@@ -63,32 +63,32 @@ dateCreated: 2021-04-24T05:21:24.743Z
 
 ### GEOIP
 
-Installer automatic GEOIP setting may not set the timezone correctly.
+Автоматическое определение местоположения по GEOIP в установщике может неправильно установить часовой пояс.
 <br />
 
-### How to configure printer
+### Как настроить принтер
 
-Turn your printer on and see if it is automatically configured. Pay attention to whether the
-right driver was installed. If printer was auto configured and you have correct driver then
-great, you are all set.
-If it was not, turn off your printer. Open System Settings>Hardware>Printers aka `kcmshell5 kcm_printer_manager`
-and remove your printer.
-If the correct driver was not installed by default we will need to add a software package.
-The next step is to determine what software to add for your printer.
-In OpenMandriva Lx this is most likely to be a 'task-printing' package specific to your
-printer brand. The packages are:
+Включите принтер и проверьте, настроился ли он автоматически. Обратите внимание,
+правильный ли драйвер был установлен. Если принтер настроился автоматически и драйвер
+подобран правильно, всё готово к работе.
+Если автоматическая настройка не произошла, выключите принтер. Откройте «Параметры системы» > «Оборудование» > «Принтеры» или выполните команду `kcmshell5 kcm_printer_manager`
+и удалите принтер из списка.
+Если нужный драйвер не был установлен по умолчанию, потребуется установить дополнительный пакет.
+Следующий шаг — определить, какой пакет необходим для вашего принтера.
+В OpenMandriva Lx это, скорее всего, будет пакет 'task-printing', соответствующий
+производителю вашего принтера. Доступны следующие пакеты:
 •task-printing-canon
 •task-printing-epson
 •task-printing-hp
 •task-printing-lexmark
 •task-printing-okidata
 •task-printing-misc
-Install the package that matches your brand or the misc package if none do. Example
-using okidata:
+Установите пакет для вашего производителя. Если подходящего нет, используйте task-printing-misc. Например,
+для принтера Okidata выполните:
 $ sudo dnf install task-printing-okidata
-Now turn printer on again and it should then automatically configure itself (sometimes you
-might need to reboot for auto config to work). If it doesn't you can configure it with System Settings>Hardware>Printers aka `kcmshell5 kcm_printer_manager`.
-If not seek help [here](https://forum.openmandriva.org/c/en/support).
+Теперь снова включите принтер. Он должен настроиться автоматически (иногда для
+автоматической настройки требуется перезагрузка системы). Если этого не произошло, настройте принтер вручную через «Параметры системы» > «Оборудование» > «Принтеры» или с помощью команды `kcmshell5 kcm_printer_manager`.
+Если проблема сохраняется, обратитесь за помощью [сюда](https://forum.openmandriva.org/c/en/support).
 <br />
 
 ### Discover new software
