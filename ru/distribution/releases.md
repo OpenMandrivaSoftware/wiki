@@ -16,7 +16,7 @@ dateCreated: 2020-02-27T22:08:23.833Z
 ### [OpenMandriva ROME](/distribution/releases/rome)
 ![omlx-rome-240px.jpg](/images/omlx-rome-240px.jpg)
 **OpenMandriva с непрерывными обновлениями**
-Выпуск: впервые выпущена в сентябре 2022 года
+1 выпуск: в сентябре 2022 года
 <br>
 
 
