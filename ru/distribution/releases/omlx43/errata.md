@@ -91,13 +91,13 @@ $ sudo dnf install task-printing-okidata
 Если проблема сохраняется, обратитесь за помощью [сюда](https://forum.openmandriva.org/c/en/support).
 <br />
 
-### Discover new software
+### Поиск новых программ
 
-If you want to explore also additional repositories packages you will need to enable them
-by means of Software Repository Selector and to refresh cache.
+Если вы хотите просматривать пакеты из дополнительных репозиториев, сначала необходимо включить их
+с помощью Software Repository Selector и обновить кеш.
 <br />
 
-### Multiboot
+### Мультизагрузка
 
 In the 'real world' multiboot works well most of the time but when there are problems
 sometimes the solution is a workaround rather than a fix. These are just realities of
