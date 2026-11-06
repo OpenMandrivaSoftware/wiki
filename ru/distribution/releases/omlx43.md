@@ -9,7 +9,7 @@ dateCreated: 2021-04-24T05:11:53.504Z
 ---
 
 # Обзор
-OpenMandriva Lx 4.3 — это новая версия от Ассоциации OpenMandriva. [Кодовое имя](/en/policies/codename) Dysprosium.
+OpenMandriva Lx 4.3 - это новая версия от Ассоциации OpenMandriva. [Кодовое имя](/en/policies/codename) Dysprosium.
 <br>
 
 ![omlx-43-grub2-menu.jpg](/images/omlx-43-grub2-menu.jpg =800x)
